@@ -4,7 +4,7 @@ List and download link for all versions of Fortnite available online.
 Welcome to this repository! This is a collection of Fortnite builds organized by chapter, season, version, and more.  
 ⚠️ **I am not hosting these builds myself.** The download links provided redirect to external sources.
 
-If **Epic Games** has any concerns regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.  
+If **Epic Games** has any concerns regarding this repository, please feel free to contact me directly via [@](#) on Discord.  
 If you would like to **suggest builds**, or if you're a host and would like your files **removed from this repository**, reach out as well!
 
 ---
@@ -29,10 +29,9 @@ It's meant to serve as a centralized archive for documentation and research purp
 
 ## Credits
 
-A big thank you to everyone who contributed to collecting and archiving these builds:
-- [Contributor #1](link)
-- [Contributor #2](link)
-- [Contributor #3](link)
+Many thanks to all these people for hosting and archiving these versions:
+- [n6617x](https://github.com/n6617x)
+- [ByZNexus]([link](https://github.com/ByZNexus))
 
 Please make sure to respect the hard work and dedication of all contributors. 🙏
 
@@ -80,15 +79,4 @@ Please make sure to respect the hard work and dedication of all contributors. �
 ## Additional Information
 
 ### Important Notes
-- These archives are shared for documentation and educational purposes only.
-- Compatibility with **Reboot Launcher** depends on the build version. Check the table above for specific details.
-- If you want to contribute additional builds or request the removal of hosted files, please contact me at [@aorux01](#).
-
----
-
-## Disclaimer
-
-This repository does not infringe upon Epic Games' intellectual property rights and serves solely to preserve Fortnite's historical builds for archival and research purposes.
-
----
-
+- If you want to contribute additional builds, please contact me at [@](#) on Discord.
