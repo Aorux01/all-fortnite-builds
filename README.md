@@ -41,6 +41,13 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 ### Chapter 1
 
+#### Pre-BattleRoyale
+| Version | Release Date | Name                     | Archive Format | Download Links           | Event       | Reboot Launcher? |
+|---------|--------------|--------------------------|----------------|--------------------------|-------------|------------------|
+| N/D     | 28-02-16     | OT6.5-CL-2870186         | `.zip`         | [Link1](https://public.simplyblk.xyz/OT0.6.5.zip) | None      | No               |
+| N/D     | 20-07-17     | Cert-CL-3532353          | `.zip`         | [Link1]([https://public.simplyblk.xyz/OT0.6.5.zip](https://rebrand.ly/1_2_X)) | None      | No               |
+| N/D     | 21-07-17     | 1.2-CL-3541083           | `.zip`         | [Link1]([https://public.simplyblk.xyz/OT0.6.5.zip](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download)) | None      | No               |
+
 #### Season 1
 | Version | Release Date | Name                     | Archive Format | Download Links           | Event       | Reboot Launcher? |
 |---------|--------------|--------------------------|----------------|--------------------------|-------------|------------------|
