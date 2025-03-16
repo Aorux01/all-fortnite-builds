@@ -270,11 +270,11 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `.7z`          | [Download](https://fn-builds.net/S18/18.00-CL-17468642.7z) | None         |
-| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.10-CL-17661844.7z) | None         |
-| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.20-CL-17792290.7z) | None         |
-| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.21-CL-17811397.7z) | None         |
-| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.30-CL-17882303.7z) | None         |
+| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
+| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
+| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
+| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
+| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
 | 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/18.40.zip)         | Chapter 2 Finale |
 
 ---
@@ -282,7 +282,14 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 ## Chapter 3
 
 #### Season 1
-Not
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 19.00   | 19.00-CL-N/A       | 13-09-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
+| 19.10   | 19.10-CL-N/A       | 21-09-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
+| 19.20   | 19.20-CL-N/A       |   12-10-2021   | UE5.0            | `N/A`          | **Soon**        | None         |
+| 19.21   | 19.21-CL-N/A       | 19-10-2021   | UE5.0            | `N/A`          | **Soon**        | None         |
+| 19.30   | 19.30-CL-N/A        26-10-2021   | UE5.0            | `N/A`          | **Soon**           | None         |
+| 19.40   | 19.40-CL-N/A       | 16-11-2022   | UE5.0            | `N/A`         | **Soon**         | None |
 
 ---
 
