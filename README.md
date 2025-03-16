@@ -4,7 +4,7 @@ List and download link for all versions of Fortnite available online.
 Welcome to this repository! This is a collection of Fortnite builds organized by chapter, season, version, and more.  
 ⚠️ **I am not hosting these builds myself.** The download links provided redirect to external sources.
 
-If **Epic Games** has any concerns regarding this repository, please feel free to contact me directly via [@aorux01](#).  
+If **Epic Games** has any concerns regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.  
 If you would like to **suggest builds**, or if you're a host and would like your files **removed from this repository**, reach out as well!
 
 ---
