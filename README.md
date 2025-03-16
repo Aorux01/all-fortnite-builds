@@ -120,7 +120,7 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 | 6.0.1   | 6.01-CL-4417689    | 03-10-2018   | UE4.21-4417689   | `.rar`         | [Download](https://public.simplyblk.xyz/6.01.rar)     | None         |
 | 6.0.2   | 6.02-CL-4442095    | 10-10-2018   | UE4.21-4442095   | `.rar`         | [Download](https://public.simplyblk.xyz/6.02.rar)     | None         |
 | 6.1.0   | 6.10-CL-4464155    | 16-10-2018   | UE4.21-4464155   | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.rar)     | None         |
-| 6.1.1   | 6.11-CL-4424678    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.1.1.rar) / [Download 2](https://public.simplyblk.xyz/6.10.1.rar)    | None         |
+| 6.1.1   | 6.11-CL-4424678    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.1.1.rar) [Download 2](https://public.simplyblk.xyz/6.10.1.rar)    | None         |
 | 6.1.2   | 6.12-CL-4480234    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.2.rar)   | None         |
 | 6.2.1   | 6.02-CL-4461277    | 10-10-2018   | UE4.21-4461277   | `.rar`         | [Download](https://public.simplyblk.xyz/6.2.1.rar)    | Butterfly    |
 | 6.2.0   | 6.20-CL-4497486    | 24-10-2018   | UE4.21-4497486   | `N/A`          | **Link not available**                                | None         |
@@ -181,24 +181,108 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 ### Chapter 2
 
+#### Season 1
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [Download](https://public.simplyblk.xyz/11.00.zip) [Download 2](https://galaxiafn.co.uk/11.00.zip) | None         |
+| 11.10   | 11.10-CL-N/A       | 29-10-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
+| 11.11   | 11.11-CL-N/A       | 13-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
+| 11.20   | 11.20-CL-N/A       | 20-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
+| 11.30   | 11.30-CL-N/A       | 23-12-2019   | UE4.24           | `N/A`          | **Link not available**                                | Star Wars    |
+| 11.31   | 11.31-CL-N/A       | N/A          | UE4.24           | `.rar`         | [Download](https://public.simplyblk.xyz/11.31.rar)    | None         |
+| 11.40   | 11.40-CL-N/A       | 15-01-2020   | UE4.24           | `N/A`          | **Link not available**                                | None         |
+| 11.50   | 11.50-CL-N/A       | 05-02-2020   | UE4.24           | `N/A`          | **Link not available**                                | None         |
+
+#### Season 2
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 12.00   | 12.00-CL-N/A       | 20-02-2020   | UE4.24           | `.rar`         | [Download](https://public.simplyblk.xyz/12.00.rar)    | None         |
+| 12.10   | 12.10-CL-N/A       | 03-03-2020   | UE4.N/A          | `N/A`          | [Download](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0) | None         |
+| 12.20   | 12.20-CL-N/A       | 17-03-2020   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
+| 12.21   | 12.21-CL-N/A       | 24-03-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.21.zip)    | None         |
+| 12.30   | 12.30-CL-N/A       | 31-03-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
+| 12.40   | 12.40-CL-N/A       | 15-04-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
+| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Download 2](https://fnbuilds.boostedv2.dev/12.41.rar) [Download 3](https://cdn.aufgeladen.dev/12.41.zip) [Download 4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) | Travis Scott  |
+| 12.50   | 12.50-CL-N/A       | 29-04-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.50.zip)    | None         |
+| 12.60   | 12.60-CL-N/A       | 20-05-2020   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
+| 12.61   | 12.61-CL-N/A       | 26-05-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.61.zip)    | The Device   |
+
+#### Season 3
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 13.00   | 13.00-CL-N/A       | 27-06-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/13.00.rar)    | None         |
+| 13.10   | 13.10-CL-N/A       | 23-06-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 13.20   | 13.20-CL-N/A       | 30-06-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 13.30   | 13.30-CL-N/A       | 21-07-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 13.40   | 13.40-CL-14113327  | 05-08-2020   | UE4.26           | `.zip`         | [Download](https://public.simplyblk.xyz/13.40.zip)    | None         |
+
 #### Season 4
-| Version  | Release Date | Name                     | Archive Format | Download Links           | Event                 | Reboot Launcher? |
-|----------|--------------|--------------------------|----------------|--------------------------|-----------------------|------------------|
-| (12.41)  | 16-04-2020   | 12.41-CL-984563          | `.rar`         | [Link1](#), [Link2](#)   | Travis Scott Concert | No               |
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 14.00   | 14.00-CL-N/A       | 27-08-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.00.rar)    | None         |
+| 14.10   | 14.10-CL-N/A       | 10-09-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 14.20   | 14.20-CL-N/A       | 23-09-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 14.30   | 14.30-CL-N/A       | 13-10-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 14.40   | 14.40-CL-14550713  | 21-10-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.40.rar)    | None         |
+| 14.50   | 14.50-CL-N/A       | 03-11-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 14.60   | 14.60-CL-14786821  | 18-11-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.60.rar)    | The Devourer of Worlds |
 
 #### Season 5
-| Version  | Release Date | Name                     | Archive Format | Download Links           | Event       | Reboot Launcher? |
-|----------|--------------|--------------------------|----------------|--------------------------|-------------|------------------|
-| (15.00)  | 02-12-2020   | 15.00-CL-456789          | `.7z`          | [Link1](#)               | The Zero Point | Yes            |
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 15.00   | 15.00-CL-N/A       | 02-12-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 15.10   | 15.00-CL-N/A       | 15-12-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 15.20   | 15.00-CL-N/A       | 13-01-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 15.21   | 15.00-CL-N/A       | 20-01-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 15.30   | 15.30-CL-15341163  | 02-02-2021   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/15.30.rar)    | None         |
+| 15.40   | 15.00-CL-N/A       | 16-02-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 15.50   | 15.00-CL-N/A       | 02-03-2021   | UE4.26           | `.zip`         | [Download](https://galaxiafn.co.uk/15.50.zip)         | Zero Crisis  |
+
+#### Season 6
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 16.00   | 16.00-CL-N/A       | 16-03-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | Zero Crisis  |
+| 16.10   | 16.10-CL-N/A       | 30-03-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 16.20   | 16.20-CL-N/A       | 13-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 16.30   | 16.30-CL-N/A       | 27-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 16.40   | 16.40-CL-16218553  | 11-05-2021   | UE4.26.1         | `.rar`         | [Download](https://public.simplyblk.xyz/16.40.rar)    | None         |
+| 16.50   | 16.50-CL-N/A       | 25-05-2021   | UE4.26.1         | `.zip`         | [Download](https://galaxiafn.co.uk/16.50.zip)         | None         |
+
+#### Season 7
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 17.00   | 17.00-CL-N/A       | 08-06-2021   | UE4.26 .1        | `N/A`          | **Link not available**                                | None         |
+| 17.10   | 17.10-CL-N/A       | 22-06-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 17.20   | 17.20-CL-N/A       | 20-07-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 17.21   | 17.21-CL-N/A       | 27-07-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 17.30   | 17.30-CL-N/A       | 03-08-2021   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/17.30.zip)    | Rift Tour    |
+| 17.40   | 17.40-CL-N/A       | 17-08-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 17.50   | 17.50-CL-N/A       | 31-08-2021   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/17.50.zip)    | Operation: Sky Fire |
+
+#### Season 8
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `.7z`          | [Download](https://fn-builds.net/S18/18.00-CL-17468642.7z) | None         |
+| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.10-CL-17661844.7z) | None         |
+| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.20-CL-17792290.7z) | None         |
+| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.21-CL-17811397.7z) | None         |
+| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `N/A`          | [Download](https://fn-builds.net/S18/18.30-CL-17882303.7z) | None         |
+| 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/18.40.zip)         | Chapter 2 Finale |
 
 ---
 
 ### Chapter 3
 
 #### Season 1
-| Version  | Release Date | Name                     | Archive Format | Download Links           | Event       | Reboot Launcher? |
-|----------|--------------|--------------------------|----------------|--------------------------|-------------|------------------|
-| (19.00)  | 05-12-2021   | 19.00-CL-678910          | `.zip`         | [Link1](#), [Link2](#)   | Spider-Man Release | Yes           |
+Not
 
 ---
 
