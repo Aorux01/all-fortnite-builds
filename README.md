@@ -31,7 +31,7 @@ It's meant to serve as a centralized archive for documentation and research purp
 
 Many thanks to all these people for hosting and archiving these versions:
 - [n6617x](https://github.com/n6617x)
-- [ByZNexus]([link](https://github.com/ByZNexus))
+- [ByZNexus](https://github.com/ByZNexus)
 
 Please make sure to respect the hard work and dedication of all contributors. 🙏
 
