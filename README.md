@@ -9,7 +9,7 @@ If you would like to **suggest builds**, or if you're a host and would like your
 
 ---
 
-## Table of Contents
+# Table of Contents
 - [Purpose](#purpose)
 - [Credits](#credits)
 - [Chapter Archives](#chapter-archives)
@@ -20,14 +20,14 @@ If you would like to **suggest builds**, or if you're a host and would like your
 
 ---
 
-## Purpose
+# Purpose
 
 This project started out of boredom, with the goal of gathering as many Fortnite builds as possible in one place.  
 It's meant to serve as a centralized archive for documentation and research purposes.
 
 ---
 
-## Credits
+# Credits
 
 Many thanks to all these people for hosting and archiving these versions:
 - [n6617x](https://github.com/n6617x)
@@ -37,9 +37,9 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 ---
 
-## Chapter Archives
+# Chapter Archives
 
-### Chapter 1
+## Chapter 1
 
 #### Pre-BattleRoyale
 | Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
@@ -120,7 +120,7 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 | 6.0.1   | 6.01-CL-4417689    | 03-10-2018   | UE4.21-4417689   | `.rar`         | [Download](https://public.simplyblk.xyz/6.01.rar)     | None         |
 | 6.0.2   | 6.02-CL-4442095    | 10-10-2018   | UE4.21-4442095   | `.rar`         | [Download](https://public.simplyblk.xyz/6.02.rar)     | None         |
 | 6.1.0   | 6.10-CL-4464155    | 16-10-2018   | UE4.21-4464155   | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.rar)     | None         |
-| 6.1.1   | 6.11-CL-4424678    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.1.1.rar) [Download 2](https://public.simplyblk.xyz/6.10.1.rar)    | None         |
+| 6.1.1   | 6.11-CL-4424678    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.1.1.rar) / [Download 2](https://public.simplyblk.xyz/6.10.1.rar)    | None         |
 | 6.1.2   | 6.12-CL-4480234    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.2.rar)   | None         |
 | 6.2.1   | 6.02-CL-4461277    | 10-10-2018   | UE4.21-4461277   | `.rar`         | [Download](https://public.simplyblk.xyz/6.2.1.rar)    | Butterfly    |
 | 6.2.0   | 6.20-CL-4497486    | 24-10-2018   | UE4.21-4497486   | `N/A`          | **Link not available**                                | None         |
@@ -179,17 +179,17 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 ---
 
-### Chapter 2
+## Chapter 2
 
 #### Season 1
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [Download](https://public.simplyblk.xyz/11.00.zip) [Download 2](https://galaxiafn.co.uk/11.00.zip) | None         |
+| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [Download](https://public.simplyblk.xyz/11.00.zip) / [Download 2](https://galaxiafn.co.uk/11.00.zip) | None         |
 | 11.10   | 11.10-CL-N/A       | 29-10-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
 | 11.11   | 11.11-CL-N/A       | 13-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
 | 11.20   | 11.20-CL-N/A       | 20-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
-| 11.30   | 11.30-CL-N/A       | 23-12-2019   | UE4.24           | `N/A`          | **Link not available**                                | Star Wars    |
+| 11.30   | 11.30-CL-N/A       | 23-12-2019   | UE4.24           | `N/A`          | [Download](https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/11.30.7z) | Star Wars    |
 | 11.31   | 11.31-CL-N/A       | N/A          | UE4.24           | `.rar`         | [Download](https://public.simplyblk.xyz/11.31.rar)    | None         |
 | 11.40   | 11.40-CL-N/A       | 15-01-2020   | UE4.24           | `N/A`          | **Link not available**                                | None         |
 | 11.50   | 11.50-CL-N/A       | 05-02-2020   | UE4.24           | `N/A`          | **Link not available**                                | None         |
@@ -204,7 +204,7 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 | 12.21   | 12.21-CL-N/A       | 24-03-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.21.zip)    | None         |
 | 12.30   | 12.30-CL-N/A       | 31-03-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
 | 12.40   | 12.40-CL-N/A       | 15-04-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
-| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Download 2](https://fnbuilds.boostedv2.dev/12.41.rar) [Download 3](https://cdn.aufgeladen.dev/12.41.zip) [Download 4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) | Travis Scott  |
+| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip) / [Download 2](https://fnbuilds.boostedv2.dev/12.41.rar) / [Download 3](https://cdn.aufgeladen.dev/12.41.zip) / [Download 4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) | Travis Scott  |
 | 12.50   | 12.50-CL-N/A       | 29-04-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.50.zip)    | None         |
 | 12.60   | 12.60-CL-N/A       | 20-05-2020   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
 | 12.61   | 12.61-CL-N/A       | 26-05-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.61.zip)    | The Device   |
@@ -279,14 +279,14 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 ---
 
-### Chapter 3
+## Chapter 3
 
 #### Season 1
 Not
 
 ---
 
-## Additional Information
+# Additional Information
 
 ### Important Notes
 - If you want to contribute additional builds, please contact me at [@](#) on Discord.
