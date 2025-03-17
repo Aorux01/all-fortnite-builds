@@ -258,7 +258,7 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 17.00   | 17.00-CL-N/A       | 08-06-2021   | UE4.26 .1        | `N/A`          | **Link not available**                                | None         |
+| 17.00   | 17.00-CL-N/A       | 08-06-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 17.10   | 17.10-CL-N/A       | 22-06-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 17.20   | 17.20-CL-N/A       | 20-07-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 17.21   | 17.21-CL-N/A       | 27-07-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
@@ -270,12 +270,12 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
-| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
-| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
-| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
-| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `N/A`          | **Soon**           | None         |
-| 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/18.40.zip)         | Chapter 2 Finale |
+| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
+| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
+| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
+| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
+| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
+| 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/18.40.zip)    | Chapter 2 Finale |
 
 ---
 
@@ -284,12 +284,41 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 #### Season 1
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 19.00   | 19.00-CL-N/A       | 13-09-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
-| 19.10   | 19.10-CL-N/A       | 21-09-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
-| 19.20   | 19.20-CL-N/A       | 12-10-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
-| 19.21   | 19.21-CL-N/A       | 19-10-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
-| 19.30   | 19.30-CL-N/A       | 26-10-2021   | UE5.0           | `N/A`          | **Soon**         | None         |
-| 19.40   | 19.40-CL-N/A       | 16-11-2022   | UE5.0           | `N/A`          | **Soon**         | None         |
+| 19.00   | 19.00-CL-18049531  | 05-12-2021   | UE5.0            | `.7z`          | [Download](https://archive.org/details/fortnite-19.01.7z) | None         |
+| 19.01   | 19.01-CL-18380290  | 14-12-2021   | UE5.0            | `.7z`          | [Download](https://r2.ploosh.dev/19.01.zip)           | None         |
+| 19.10   | 19.10-CL-18675304  | 18-01-2022   | UE5.0            | `.rar`         | [Download](https://public.simplyblk.xyz/19.10.rar) / [Download 2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) | None         |
+| 19.20   | 19.20-CL-N/A       | 01-02-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 19.30   | 19.30-CL-N/A       | 15-02-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 19.40   | 19.40-CL-N/A       | 01-03-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+
+#### Season 2
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 20.00   | 20.00-CL-N/A       | 20-03-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 20.10   | 20.10-CL-N/A       | 05-04-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 20.20   | 20.20-CL-N/A       | 19-04-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 20.30   | 20.30-CL-N/A       | 03-05-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 20.40   | 20.40-CL-20244966  | 17-05-2022   | UE5.1            | `.zip`         | [Download](https://public.simplyblk.xyz/20.40.zip) / [Download 2](https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view) / [Download 3](https://web.archive.org/web/20250119063536/https://public.simplyblk.xyz/20.40.zip) | Collision / Collider Pulse |
+
+#### Season 3
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 21.00   | 21.00-CL-20548557  | 05-06-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) / [Download 2](https://cdn.solarisfn.org/21.00.zip)| None         |
+| 21.10   | 21.10-CL-21159871  | 21-06-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view) | None         |
+| 21.20   | 21.20-CL-21179810  | 06-07-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing) / [Download 2](https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0) | None         |
+| 21.30   | 21.30-CL-N/A       | 18-07-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 21.40   | 21.40-CL-N/A       | 16-08-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 21.50   | 21.50-CL-21245791  | 30-08-2022   | UE5.1            | `.zip`         | [Download](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) | None         |
+| 21.51   | 21.51-CL-N/A       | 07-09-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+
+#### Season 4
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 22.00   | 22.00-CL-N/A       | 18-09-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 22.10   | 22.10-CL-N/A       | 04-10-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 22.20   | 22.20-CL-23456978  | 18-10-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view) | None         |
+| 22.30   | 22.30-CL-N/A       | 01-11-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 22.40   | 22.40-CL-23070899  | 15-11-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) | Fracture - Chapter 3 Finale |
 
 ---
 
