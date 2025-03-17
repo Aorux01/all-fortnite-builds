@@ -122,9 +122,8 @@ Please make sure to respect the hard work and dedication of all contributors. ðŸ
 | 6.1.0   | 6.10-CL-4464155    | 16-10-2018   | UE4.21-4464155   | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.rar)     | None         |
 | 6.1.1   | 6.11-CL-4424678    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.1.1.rar) / [Download 2](https://public.simplyblk.xyz/6.10.1.rar)    | None         |
 | 6.1.2   | 6.12-CL-4480234    | N/A          | UE4.21-N/A       | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.2.rar)   | None         |
-| 6.2.1   | 6.02-CL-4461277    | 10-10-2018   | UE4.21-4461277   | `.rar`         | [Download](https://public.simplyblk.xyz/6.2.1.rar)    | Butterfly    |
 | 6.2.0   | 6.20-CL-4497486    | 24-10-2018   | UE4.21-4497486   | `N/A`          | **Link not available**                                | None         |
-| 6.2.1   | 6.21-CL-4526925    | 01-11-2018   | UE4.21-4526925   | `.rar`         | [Download](https://public.simplyblk.xyz/6.21.rar)     | None         |
+| 6.2.1   | 6.21-CL-4526925    | 01-11-2018   | UE4.21-4526925   | `.rar`         | [Download](https://public.simplyblk.xyz/6.21.rar) / [Download 2](https://public.simplyblk.xyz/6.2.1.rar)     | Butterfly     |
 | 6.2.2   | 6.22-CL-4543176    | 04-11-2018   | UE4.21-4543176   | `.rar`         | [Download](https://public.simplyblk.xyz/6.22.rar)     | None         |
 | 6.3.0   | 6.30-CL-4573096    | 13-11-2018   | UE4.21-4573096   | `.rar`         | [Download](https://public.simplyblk.xyz/6.30.rar)     | None         |
 | 6.3.1   | 6.31-CL-4573279    | 27-11-2018   | UE4.21-4573279   | `.rar`         | [Download](https://public.simplyblk.xyz/6.31.rar)     | None         |
