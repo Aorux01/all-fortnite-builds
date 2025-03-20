@@ -3,7 +3,7 @@ List and download link for all Fortnite builds available online.
 
 Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
 
-⚠️ **I host these builds myself.** The torrents are hosted by me. Also, there are downloads, so the speed will be high.
+⚠️ **I host these builds myself. (no chapter 1 and 2)** The torrents are hosted by me. Also, there are downloads, so the speed will be high.
 
 If **Epic Games** has any questions regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.
 
