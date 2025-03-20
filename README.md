@@ -2,6 +2,7 @@
 List and download link for all Fortnite builds available online.
 
 Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
+
 ⚠️ **I host these builds myself.** The torrents are hosted by me. Also, there are downloads, so the speed will be high.
 
 If **Epic Games** has any questions regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.
@@ -386,7 +387,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 29.00   | 29.00-CL-N/A       | 08-03-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
 | 29.01   | 29.01-CL-N/A       | 19-03-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
 | 29.10   | 29.10-CL-N/A       | 26-03-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 29.20   | 29.20-CL-N/A       | 09-04-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 29.20   | 29.20-CL-N/A       | 09-04-2024   | UE5.N/A          | `.7z`          | [Download](https://github.com/Aorux01/all-fortnite-builds/blob/main/torrents/%5BBUILD%5D%2029.20-CL-32716692%20%5B09-04-24%5D%5B0%5D.7z.torrent) | None         |
 | 29.30   | 29.30-CL-N/A       | 23-04-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
 | 29.40   | 29.40-CL-N/A       | 03-05-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
 
