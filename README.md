@@ -1,39 +1,40 @@
-# all-fortnite-builds
-List and download link for all versions of Fortnite available online.
+# Fortnite-torrent-builds
+List and download link for all Fortnite builds available online.
 
-Welcome to this repository! This is a collection of Fortnite builds organized by chapter, season, version, and more.  
-⚠️ **I am not hosting these builds myself.** The download links provided redirect to external sources.
+Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
+⚠️ **I host these builds myself.** The torrents are hosted by me. Also, there are downloads, so the speed will be high.
 
-If **Epic Games** has any concerns regarding this repository, please feel free to contact me directly via [@](#) on Discord.  
-If you would like to **suggest builds**, or if you're a host and would like your files **removed from this repository**, reach out as well!
+If **Epic Games** has any questions regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.
+
+If you would like to **suggest builds**, please feel free to contact me!
 
 ---
 
 # Table of Contents
-- [Purpose](#purpose)
+- [Objective](#objective)
 - [Credits](#credits)
 - [Chapter Archives](#chapter-archives)
-  - [Chapter 1](#chapter-1)
-  - [Chapter 2](#chapter-2)
-  - [Chapter 3](#chapter-3)
+- [Chapter 1](#chapter-1)
+- [Chapter 2](#chapter-2)
+- [Chapter 3](#chapter-3)
 - [Additional Information](#additional-information)
 
 ---
 
-# Purpose
+# Objective
 
-This project started out of boredom, with the goal of gathering as many Fortnite builds as possible in one place.  
-It's meant to serve as a centralized archive for documentation and research purposes.
+This project was born out of a lack of interest, with the goal of gathering as many Fortnite builds as possible in one place.
+It's a centralized archive for downloading versions from torrents.
 
 ---
 
 # Credits
 
-Many thanks to all these people for hosting and archiving these versions:
+A big thank you to everyone who hosted and archived these releases:
 - [n6617x](https://github.com/n6617x)
 - [ByZNexus](https://github.com/ByZNexus)
 
-Please make sure to respect the hard work and dedication of all contributors. 🙏
+Please respect the hard work and dedication of all contributors. 🙏
 
 ---
 
@@ -324,4 +325,4 @@ Please make sure to respect the hard work and dedication of all contributors. �
 # Additional Information
 
 ### Important Notes
-- If you want to contribute additional builds, please contact me at [@](#) on Discord.
+- If you want to contribute additional builds, please contact me at [@aorux01](#) on Discord.
