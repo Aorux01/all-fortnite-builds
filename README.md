@@ -17,6 +17,10 @@ If you would like to **suggest builds**, please feel free to contact me!
 - [Chapter 1](#chapter-1)
 - [Chapter 2](#chapter-2)
 - [Chapter 3](#chapter-3)
+- [Chapter 4](#chapter-4)
+- [Chapter 1 OG](#chapter-1-og)
+- [Chapter 5](#chapter-5)
+- [Chapter 2 REMIX](#chapter-2-remix)
 - [Additional Information](#additional-information)
 
 ---
