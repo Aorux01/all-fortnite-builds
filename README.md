@@ -1,4 +1,4 @@
-# Fortnite-torrent-builds
+# Fortnite torrent builds
 List and download link for all Fortnite builds available online.
 
 Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
@@ -311,14 +311,110 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 21.50   | 21.50-CL-21245791  | 30-08-2022   | UE5.1            | `.zip`         | [Download](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) | None         |
 | 21.51   | 21.51-CL-N/A       | 07-09-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
 
+---
+
+## Chapter 4
+
+#### Season 1
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 23.00   | 23.00-CL-23344627  | 04-12-2022   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S23/23.00-CL-23344627.zip) | None         |
+| 23.10   | 23.10-CL-23572221  | 13-12-2022   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S23/23.10-CL-23572221.zip) | None         |
+| 23.20   | 23.20-CL-23783097  | 18-01-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S23/23.20-CL-23783097.zip) | None         |
+| 23.30   | 23.30-CL-N/A       | 31-01-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 23.40   | 23.40-CL-24087481  | 14-02-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S23/23.40-CL-24087481.zip) | None         |
+| 23.50   | 23.50-CL-N/A       | 28-02-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
+#### Season 2
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 24.00   | 24.00-CL-24554913  | 10-03-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S24/24.00-CL-24554913.zip) | None         |
+| 24.01   | 24.01-CL-24672685  | 20-03-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S24/24.01-CL-24672685.zip) | None         |
+| 24.10   | 24.10-CL-24903530  | 29-03-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S24/24.10-CL-24903530.zip) | None         |
+| 24.20   | 24.20-CL-25156858  | 11-04-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S24/24.20-CL-25156858.zip) | None         |
+| 24.30   | 24.30-CL-25347382  | 02-05-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S24/24.30-CL-25347382.zip) | None         |
+| 24.40   | 24.40-CL-25521145  | 17-05-2023   | UE5.N/A          | `.7z`          | [Download](https://fn-builds.net/S24/24.40-CL-25521145.zip) | None         |
+
+#### Season 3
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 25.00   | 25.00-CL-N/A       | 09-06-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 25.10   | 25.10-CL-N/A       | 20-06-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 25.11   | 25.11-CL-N/A       | 04-07-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 25.20   | 25.20-CL-N/A       | 26-07-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 25.30   | 25.30-CL-N/A       | 08-08-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
 #### Season 4
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 22.00   | 22.00-CL-N/A       | 18-09-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
-| 22.10   | 22.10-CL-N/A       | 04-10-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
-| 22.20   | 22.20-CL-23456978  | 18-10-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view) | None         |
-| 22.30   | 22.30-CL-N/A       | 01-11-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
-| 22.40   | 22.40-CL-23070899  | 15-11-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) | Fracture - Chapter 3 Finale |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 26.00   | 26.00-CL-N/A       | 25-08-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 26.10   | 26.10-CL-N/A       | 12-09-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 26.20   | 26.20-CL-N/A       | 26-09-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 26.30   | 26.30-CL-N/A       | 03-10-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
+---
+
+## Chapter 1 OG
+
+#### Season
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 27.00   | 27.00-CL-N/A       | 03-11-2023   | UE5.0            | `.7z`          | **Link not available**                                | None         |
+| 27.10   | 27.10-CL-N/A       | 16-11-2023   | UE5.0            | `.7z`          | **Link not available**                                | None         |
+| 27.11   | 27.11-CL-N/A       | 23-11-2023   | UE5.0            | `.7z`          | **Link not available**                                | None         |
+
+---
+
+## Chapter 5
+
+#### Season 1
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 28.00   | 28.00-CL-N/A       | 03-12-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 28.01   | 28.01-CL-N/A       | 06-09-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 28.10   | 28.10-CL-N/A       | 23-01-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 28.20   | 28.20-CL-N/A       | 09-02-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 28.30   | 28.30-CL-N/A       | 27-02-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
+#### Season 2
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 29.00   | 29.00-CL-N/A       | 08-03-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 29.01   | 29.01-CL-N/A       | 19-03-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 29.10   | 29.10-CL-N/A       | 26-03-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 29.20   | 29.20-CL-N/A       | 09-04-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 29.30   | 29.30-CL-N/A       | 23-04-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 29.40   | 29.40-CL-N/A       | 03-05-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
+#### Season 3
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 30.00   | 30.00-CL-N/A       | 24-05-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 30.10   | 30.10-CL-N/A       | 13-06-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 30.20   | 30.20-CL-N/A       | 22-06-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 30.30   | 30.30-CL-N/A       | 23-07-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 30.40   | 30.40-CL-N/A       | 03-08-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
+#### Season 4
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 31.00   | 31.00-CL-35447195  | 16-08-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 31.10   | 31.10-CL-35815136  | 04-09-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 31.20   | 31.20-CL-N/A       | 17-09-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 31.30   | 31.30-CL-36600465  | 01-10-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 31.40   | 31.40-CL-N/A       | 12-10-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 31.41   | 31.41-CL-N/A       | 01-11-2024   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+
+---
+
+## Chapter 2 REMIX
+
+#### Season
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
+| 32.00   | 32.00-CL-37505882  | 02-11-2024   | UE5.0            | `.7z`          | **Link not available**                                | None         |
+| 32.10   | 32.10-CL-N/A       | 14-11-2024   | UE5.0            | `.7z`          | **Link not available**                                | None         |
+| 32.11   | 32.11-CL-38202817  | 21-11-2024   | UE5.0            | `.7z`          | **Link not available**                                | None         |
 
 ---
 
