@@ -57,7 +57,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 1.7.2   | 1.7.2-CL-3700114   | 17-10-2017   | UE4.16-3700114   | `.zip`         | [Download](https://public.simplyblk.xyz/1.7.2.zip)    | None         |
+| 1.7.2   | 1.7.2-CL-3700114   | 17-10-2017   | UE4.16-3700114   | `.zip`         | [Download](https://public.simplyblk.xyz/1.7.2.zip) / [Download 2](https://builds.rebootfn.org/1.7.2.zip) / [Download 3](https://galaxiafn.co.uk/1.7.2.zip)    | None         |
 | 1.8.0   | 1.8-CL-3724489     | 25-10-2017   | UE4.16-3724489   | `.rar`         | [Download](https://public.simplyblk.xyz/1.8.rar)      | None         |
 | 1.8.1   | 1.8.1-CL-3729133   | 02-11-2017   | UE4.16-3729133   | `.rar`         | [Download](https://public.simplyblk.xyz/1.8.1.rar)    | None         |
 | 1.8.2   | 1.8.2-CL-3741772   | 08-11-2017   | UE4.16-3741772   | `.rar`         | [Download](https://public.simplyblk.xyz/1.8.2.rar)    | None         |
@@ -115,7 +115,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 5.2.1   | 5.21-CL-4288479    | 15-08-2018   | UE4.21-4288479   | `.rar`         | [Download](https://public.simplyblk.xyz/5.21.rar)     | None         |
 | 5.3.0   | 5.30-CL-4305896    | 23-08-2018   | UE4.21-4305896   | `.rar`         | [Download](https://public.simplyblk.xyz/5.30.rar)     | Cube Spawning |
 | 5.4.0   | 5.40-CL-4352937    | 05-09-2018   | UE4.21-4352937   | `.rar`         | [Download](https://public.simplyblk.xyz/5.40.rar)     | None         |
-| 5.4.1   | 5.41-CL-4363240    | 19-09-2018   | UE4.21-4363240   | `N/A`          | **Link not available**                                | Cube Sinking |
+| 5.4.1   | 5.41-CL-4363240    | 19-09-2018   | UE4.21-4363240   | `.zip`         | [Download](https://cdn.aufgeladen.dev/5.41.zip)       | Cube Sinking |
 
 #### Season 6
 
@@ -239,7 +239,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 15.00   | 15.00-CL-N/A       | 02-12-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
+| 15.00   | 15.00-CL-N/A       | 02-12-2020   | UE4.26           | `N/A`          | [Download](https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view) / **MANIFEST AVAILABLE** | None         |
 | 15.10   | 15.00-CL-N/A       | 15-12-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 15.20   | 15.00-CL-N/A       | 13-01-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 15.21   | 15.00-CL-N/A       | 20-01-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
@@ -251,10 +251,10 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 16.00   | 16.00-CL-N/A       | 16-03-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | Zero Crisis  |
+| 16.00   | 16.00-CL-N/A       | 16-03-2021   | UE4.26.1         | `N/A`          | **Soon** / **MANIFEST AVAILABLE**                     | Zero Crisis  |
 | 16.10   | 16.10-CL-N/A       | 30-03-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 16.20   | 16.20-CL-N/A       | 13-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
-| 16.30   | 16.30-CL-N/A       | 27-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 16.30   | 16.30-CL-N/A       | 27-04-2021   | UE4.26.1         | `.zip`         | [Download](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view)   | None         |
 | 16.40   | 16.40-CL-16218553  | 11-05-2021   | UE4.26.1         | `.rar`         | [Download](https://public.simplyblk.xyz/16.40.rar)    | None         |
 | 16.50   | 16.50-CL-14786821  | 25-05-2021   | UE4.26.1         | `.zip`         | [Download](https://galaxiafn.co.uk/16.50.zip) / [Download 2](https://builds.fn-builds.net/16.50-CL-16432754.7z)         | None         |
 
