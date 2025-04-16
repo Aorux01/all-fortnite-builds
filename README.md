@@ -202,16 +202,16 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 12.00   | 12.00-CL-N/A       | 20-02-2020   | UE4.24           | `.rar`         | [Download](https://public.simplyblk.xyz/12.00.rar)    | None         |
+| 12.00   | 12.00-CL-N/A       | 20-02-2020   | UE4.24           | `.rar` / `.7z` | [Download](https://public.simplyblk.xyz/12.00.rar) / [Download 2](https://builds.fn-builds.net/12.00.7z)    | None         |
 | 12.10   | 12.10-CL-N/A       | 03-03-2020   | UE4.N/A          | `N/A`          | [Download](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0) | None         |
 | 12.20   | 12.20-CL-N/A       | 17-03-2020   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
 | 12.21   | 12.21-CL-N/A       | 24-03-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.21.zip)    | None         |
 | 12.30   | 12.30-CL-N/A       | 31-03-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
 | 12.40   | 12.40-CL-N/A       | 15-04-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
-| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip) / [Download 2](https://fnbuilds.boostedv2.dev/12.41.rar) / [Download 3](https://cdn.aufgeladen.dev/12.41.zip) / [Download 4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) | Travis Scott  |
-| 12.50   | 12.50-CL-N/A       | 29-04-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.50.zip)    | None         |
+| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip) / [Download 2](https://fnbuilds.boostedv2.dev/12.41.rar) / [Download 3](https://cdn.aufgeladen.dev/12.41.zip) / [Download 4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) / [Download 5](https://builds.fn-builds.net/12.41-CL-12905909.7z) | Travis Scott  |
+| 12.50   | 12.50-CL-N/A       | 29-04-2020   | UE4.25           | `.zip` / `.7z` | [Download](https://public.simplyblk.xyz/12.50.zip) / [Download 2](https://builds.fn-builds.net/12.50.7z)    | None         |
 | 12.60   | 12.60-CL-N/A       | 20-05-2020   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
-| 12.61   | 12.61-CL-N/A       | 26-05-2020   | UE4.25           | `.zip`         | [Download](https://public.simplyblk.xyz/12.61.zip)    | The Device   |
+| 12.61   | 12.61-CL-N/A       | 26-05-2020   | UE4.25           | `.zip` / `.7z` | [Download](https://public.simplyblk.xyz/12.61.zip) / [Download 2](https://builds.fn-builds.net/12.61.7z)    | The Device   |
 
 #### Season 3
 
@@ -274,11 +274,11 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
-| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
-| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
-| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
-| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `N/A`          | **Soon**                                              | None         |
+| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.00-CL-17468642.7z) | None         |
+| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.10-CL-17661844.7z) | None         |
+| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.20-CL-17792290.7z) | None         |
+| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `.7z`          | [DOwnload](https://builds.fn-builds.net/18.21-CL-17811397.7z) | None         |
+| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.30-CL-17882303.7z) | None         |
 | 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/18.40.zip)    | Chapter 2 Finale |
 
 ---
@@ -307,13 +307,13 @@ Please respect the hard work and dedication of all contributors. 🙏
 #### Season 3
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 21.00   | 21.00-CL-20548557  | 05-06-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) / [Download 2](https://cdn.solarisfn.org/21.00.zip)| None         |
+| 21.00   | 21.00-CL-20548557  | 05-06-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) / [Download 2](https://cdn.solarisfn.org/21.00.zip) / [Download 3](https://builds.fn-builds.net/21.00-CL-20463113.7z) | None         |
 | 21.10   | 21.10-CL-21159871  | 21-06-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view) | None         |
-| 21.20   | 21.20-CL-21179810  | 06-07-2022   | UE5.1            | `.zip`         | [Download](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing) / [Download 2](https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0) | None         |
-| 21.30   | 21.30-CL-N/A       | 18-07-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
-| 21.40   | 21.40-CL-N/A       | 16-08-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 21.20   | 21.20-CL-21179810  | 06-07-2022   | UE5.1            | `.zip` / `.7z` | [Download](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing) / [Download 2](https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0) / [Download 3](https://builds.fn-builds.net/21.20-CL-21035704.7z) | None         |
+| 21.30   | 21.30-CL-21155462  | 18-07-2022   | UE5.1            | `.7z`          | [Download](https://builds.fn-builds.net/21.30-CL-21155462.7z) | None         |
+| 21.40   | 21.40-CL-21407327  | 16-08-2022   | UE5.1            | `.7z`          | [Download](https://builds.fn-builds.net/21.40-CL-21407327.7z) | None         |
 | 21.50   | 21.50-CL-21245791  | 30-08-2022   | UE5.1            | `.zip`         | [Download](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) | None         |
-| 21.51   | 21.51-CL-N/A       | 07-09-2022   | UE5.1            | `N/A`          | **Link not available**                                | None         |
+| 21.51   | 21.51-CL-N/A       | 07-09-2022   | UE5.1            | `.7z`          | [Download](https://builds.fn-builds.net/21.51-CL-21735703.7z) | None         |
 
 ---
 
@@ -351,10 +351,10 @@ Please respect the hard work and dedication of all contributors. 🙏
 #### Season 4
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
-| 26.00   | 26.00-CL-N/A       | 25-08-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 26.10   | 26.10-CL-N/A       | 12-09-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 26.20   | 26.20-CL-N/A       | 26-09-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 26.30   | 26.30-CL-N/A       | 03-10-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 26.00   | 26.00-CL-27233190  | 25-08-2023   | UE5.N/A          | `.zip` / `.7z` | [Download](https://builds.fn-builds.net/26.00-CL-27233190.zip) / [Download 2](https://builds.fn-builds.net/26.00-CL-27424790.7z) | None         |
+| 26.10   | 26.10-CL-27681420  | 12-09-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/26.10-CL-27681420.7z) | None         |
+| 26.20   | 26.20-CL-28096793  | 26-09-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/26.20-CL-28096793.7z) | None         |
+| 26.30   | 26.30-CL-28688692  | 03-10-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/26.30-CL-28688692.7z) | None         |
 
 ---
 
