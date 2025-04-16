@@ -277,7 +277,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.00-CL-17468642.7z) | None         |
 | 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.10-CL-17661844.7z) | None         |
 | 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.20-CL-17792290.7z) | None         |
-| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `.7z`          | [DOwnload](https://builds.fn-builds.net/18.21-CL-17811397.7z) | None         |
+| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.21-CL-17811397.7z) | None         |
 | 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/18.30-CL-17882303.7z) | None         |
 | 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/18.40.zip)    | Chapter 2 Finale |
 
@@ -290,7 +290,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
 | 19.00   | 19.00-CL-18049531  | 05-12-2021   | UE5.0            | `.7z`          | [Download](https://archive.org/details/fortnite-19.01.7z) | None         |
 | 19.01   | 19.01-CL-18380290  | 14-12-2021   | UE5.0            | `.7z`          | [Download](https://r2.ploosh.dev/19.01.zip)           | None         |
-| 19.10   | 19.10-CL-18675304  | 18-01-2022   | UE5.0            | `.rar`         | [Download](https://public.simplyblk.xyz/19.10.rar) / [Download 2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) / [Download](https://builds.fn-builds.net/19.10.rar) | None         |
+| 19.10   | 19.10-CL-18675304  | 18-01-2022   | UE5.0            | `.rar`         | [Download](https://public.simplyblk.xyz/19.10.rar) / [Download 2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) / [Download 3 ](https://builds.fn-builds.net/19.10.rar) | None         |
 | 19.20   | 19.20-CL-N/A       | 01-02-2022   | UE5.N/A          | `N/A`          | [Download](https://builds.fn-builds.net/19.20-CL-18775446.7z) | None         |
 | 19.30   | 19.30-CL-N/A       | 15-02-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
 | 19.40   | 19.40-CL-N/A       | 01-03-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
@@ -363,9 +363,9 @@ Please respect the hard work and dedication of all contributors. 🙏
 #### Season
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
-| 27.00   | 27.00-CL-N/A       | 03-11-2023   | UE5.0            | `.7z`          | **Link not available**                                | None         |
-| 27.10   | 27.10-CL-N/A       | 16-11-2023   | UE5.0            | `.7z`          | **Link not available**                                | None         |
-| 27.11   | 27.11-CL-N/A       | 23-11-2023   | UE5.0            | `.7z`          | **Link not available**                                | None         |
+| 27.00   | 27.00-CL-29072304  | 03-11-2023   | UE5.0            | `.7z`          | [Download](https://builds.fn-builds.net/27.00-CL-29072304.7z) | None         |
+| 27.10   | 27.10-CL-29552510  | 16-11-2023   | UE5.0            | `.7z`          | [Download](https://builds.fn-builds.net/27.10-CL-29552510.7z) | None         |
+| 27.11   | 27.11-CL-29739262  | 23-11-2023   | UE5.0            | `.7z`          | [Download](https://builds.fn-builds.net/27.11-CL-29739262.7z) | None         |
 
 ---
 
