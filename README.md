@@ -1,9 +1,7 @@
-# Fortnite torrent builds
+# Fortnite builds
 List and download link for all Fortnite builds available online.
 
 Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
-
-⚠️ **I host these builds myself. (no chapter 1 and 2)** The torrents are hosted by me. Also, there are downloads, so the speed will be high.
 
 If **Epic Games** has any questions regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.
 
@@ -38,6 +36,7 @@ It's a centralized archive for downloading versions from torrents.
 A big thank you to everyone who hosted and archived these releases:
 - [n6617x](https://github.com/n6617x)
 - [ByZNexus](https://github.com/ByZNexus)
+- [0729tai](https://fn-builds.net/)
 
 Please respect the hard work and dedication of all contributors. 🙏
 
@@ -109,7 +108,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 5.0.0   | 5.00-CL-4204761    | 12-07-2018   | UE4.21-4204761   | `.rar`         | [Download](https://public.simplyblk.xyz/5.00.rar)     | None         |
+| 5.0.0   | 5.00-CL-4204761    | 12-07-2018   | UE4.21-4204761   | `.rar` / `.7z` | [Download](https://public.simplyblk.xyz/5.00.rar) / [Download 2](https://builds.fn-builds.net/5.00.rar) | None         |
 | 5.0.1   | 5.0.1-CL-4214610   | 12-07-2018   | UE4.21-4214610   | `.rar`         | [Download](https://public.simplyblk.xyz/5.0.1.rar)    | None         |
 | 5.1.0   | 5.10-CL-4240749    | 25-07-2018   | UE4.21-4240749   | `.rar`         | [Download](https://public.simplyblk.xyz/5.10.rar)     | None         |
 | 5.2.0   | 5.20-CL-N/A        | 07-08-2018   | UE4.21-N/A       | `N/A`          | **Link not available**                                | None         |
@@ -122,7 +121,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 6.0.0   | 6.00-CL-4395664    | 27-09-2018   | UE4.21-4395664   | `.rar`         | [Download](https://public.simplyblk.xyz/6.00.rar)     | None         |
+| 6.0.0   | 6.00-CL-4395664    | 27-09-2018   | UE4.21-4395664   | `.rar`         | [Download](https://public.simplyblk.xyz/6.00.rar) / [Download 2](https://builds.fn-builds.net/6.00.rar) | None         |
 | 6.0.1   | 6.01-CL-4417689    | 03-10-2018   | UE4.21-4417689   | `.rar`         | [Download](https://public.simplyblk.xyz/6.01.rar)     | None         |
 | 6.0.2   | 6.02-CL-4442095    | 10-10-2018   | UE4.21-4442095   | `.rar`         | [Download](https://public.simplyblk.xyz/6.02.rar)     | None         |
 | 6.1.0   | 6.10-CL-4464155    | 16-10-2018   | UE4.21-4464155   | `.rar`         | [Download](https://public.simplyblk.xyz/6.10.rar)     | None         |
@@ -138,12 +137,12 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 7.0.0   | 7.00-CL-4629139    | 06-12-2018   | UE4.22-4629139   | `.rar`         | [Download](https://public.simplyblk.xyz/7.00.rar)     | None         |
+| 7.0.0   | 7.00-CL-4629139    | 06-12-2018   | UE4.22-4629139   | `.rar`         | [Download](https://public.simplyblk.xyz/7.00.rar) / [Download 2](https://builds.fn-builds.net/7.00-CL-4629139.rar)     | None         |
 | 7.0.1   | 7.01-CL-N/A        | 11-12-2018   | UE4.22-N/A       | `N/A`          | **Link not available**                                | None         |
 | 7.1.0   | 7.10-CL-4667333    | 18-12-2018   | UE4.22-4667333   | `.rar`         | [Download](https://public.simplyblk.xyz/7.10.rar)     | None         |
 | 7.2.0   | 7.20-CL-4727874    | 22-01-2019   | UE4.22-4727874   | `.rar`         | [Download](https://public.simplyblk.xyz/7.20.rar)     | Ice King     |
 | 7.3.0   | 7.30-CL-4834550    | 29-01-2019   | UE4.22-4834550   | `.zip`         | [Download](https://public.simplyblk.xyz/7.30.zip)     | Marshmello   |
-| 7.4.0   | 7.40-CL-5046157    | 13-02-2019   | UE4.22-5046157   | `.rar`         | [Download](https://public.simplyblk.xyz/7.40.rar)     | None         |
+| 7.4.0   | 7.40-CL-5046157    | 13-02-2019   | UE4.22-5046157   | `.rar`         | [Download](https://public.simplyblk.xyz/7.40.rar) / [Download 2](https://builds.fn-builds.net/7.40-CL-5046157.rar)     | None         |
 
 #### Season 8
 
@@ -153,17 +152,17 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 8.0.1   | 8.01-CL-N/A        | 06-03-2019   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
 | 8.1.0   | 8.10-CL-N/A        | 12-03-2019   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
 | 8.1.1   | 8.11-CL-N/A        | 20-03-2019   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
-| 8.2.0   | 8.20-CL-N/A        | 27-03-2019   | UE4.23           | `.rar`         | [Download](https://public.simplyblk.xyz/8.20.rar)     | None         |
+| 8.2.0   | 8.20-CL-N/A        | 27-03-2019   | UE4.23           | `.rar`         | [Download](https://public.simplyblk.xyz/8.20.rar) / [Download 2](https://builds.fn-builds.net/8.20.rar)     | None         |
 | 8.3.0   | 8.30-CL-N/A        | 10-04-2019   | UE4.23           | `.rar`         | [Download](https://public.simplyblk.xyz/8.30.rar)     | None         |
 | 8.4.0   | 8.40-CL-N/A        | 17-04-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/8.40.zip)     | None         |
-| 8.5.0   | 8.50-CL-6058028    | 25-04-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/8.50.zip)     | None         |
+| 8.5.0   | 8.50-CL-6058028    | 25-04-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/8.50.zip) / [Download 2](https://builds.fn-builds.net/8.50.zip)     | None         |
 | 8.5.1   | 8.51-CL-N/A        | 02-05-2019   | UE4.23           | `.rar`         | [Download](https://public.simplyblk.xyz/8.51.rar)     | Unvaulting   |
 
 #### Season 9
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 9.0.0   | 9.00-CL-6337466    | 09-05-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/9.00.zip)     | None         |
+| 9.0.0   | 9.00-CL-6337466    | 09-05-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/9.00.zip) / [Download 2](https://builds.fn-builds.net/9.00.7z)     | None         |
 | 9.0.1   | 9.01-CL-6428087    | 15-05-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/9.01.zip)     | None         |
 | 9.1.0   | 9.10-CL-6639283    | 19-05-2019   | UE4.23           | `.rar`         | [Download](https://public.simplyblk.xyz/9.10.rar)     | None         |
 | 9.2.1   | 9.21-CL-6922310    | 12-06-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/9.21.zip)     | None         |
@@ -175,7 +174,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 10.00   | 10.00-CL-7704164   | 01-08-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/10.00.zip)    | None         |
+| 10.00   | 10.00-CL-7704164   | 01-08-2019   | UE4.23           | `.zip` / `.7z` | [Download](https://public.simplyblk.xyz/10.00.zip) / [Download 2](https://builds.fn-builds.net/10.00.7z)    | None         |
 | 10.10   | 10.10-CL-7955722   | 10-08-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/10.10.zip)    | None         |
 | 10.20   | 10.20-CL-8456527   | 27-08-2019   | UE4.23           | `.zip`         | [Download](https://public.simplyblk.xyz/10.20.zip)    | None         |
 | 10.30   | 10.31-CL-8723043   | 12-09-2019   | UE4.23           | `N/A`          | **Link not available**                                | None         |
@@ -190,7 +189,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [Download](https://public.simplyblk.xyz/11.00.zip) / [Download 2](https://galaxiafn.co.uk/11.00.zip) | None         |
+| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [Download](https://public.simplyblk.xyz/11.00.zip) / [Download 2](https://galaxiafn.co.uk/11.00.zip) / [Download 3](https://builds.fn-builds.net/11.00.7z)  | None         |
 | 11.10   | 11.10-CL-N/A       | 29-10-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
 | 11.11   | 11.11-CL-N/A       | 13-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
 | 11.20   | 11.20-CL-N/A       | 20-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |
@@ -218,23 +217,23 @@ Please respect the hard work and dedication of all contributors. 🙏
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 13.00   | 13.00-CL-N/A       | 27-06-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/13.00.rar)    | None         |
+| 13.00   | 13.00-CL-N/A       | 27-06-2020   | UE4.26           | `.rar` / `.7z` | [Download](https://public.simplyblk.xyz/13.00.rar) / [Download 2](https://builds.fn-builds.net/13.00.7z)    | None         |
 | 13.10   | 13.10-CL-N/A       | 23-06-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 13.20   | 13.20-CL-N/A       | 30-06-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 13.30   | 13.30-CL-N/A       | 21-07-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 13.40   | 13.40-CL-14113327  | 05-08-2020   | UE4.26           | `.zip`         | [Download](https://public.simplyblk.xyz/13.40.zip)    | None         |
+| 13.40   | 13.40-CL-14113327  | 05-08-2020   | UE4.26           | `.zip` / `.7z` | [Download](https://public.simplyblk.xyz/13.40.zip) / [Download 2](https://builds.fn-builds.net/13.40-CL-14113327.7z)    | None         |
 
 #### Season 4
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 14.00   | 14.00-CL-N/A       | 27-08-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.00.rar)    | None         |
+| 14.00   | 14.00-CL-N/A       | 27-08-2020   | UE4.26           | `.rar` / `.7z` | [Download](https://public.simplyblk.xyz/14.00.rar) / [Download 2](https://builds.fn-builds.net/14.00.7z)    | None         |
 | 14.10   | 14.10-CL-N/A       | 10-09-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 14.20   | 14.20-CL-N/A       | 23-09-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 14.30   | 14.30-CL-N/A       | 13-10-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
 | 14.40   | 14.40-CL-14550713  | 21-10-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.40.rar)    | None         |
 | 14.50   | 14.50-CL-N/A       | 03-11-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 14.60   | 14.60-CL-14786821  | 18-11-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.60.rar)    | The Devourer of Worlds |
+| 14.60   | 14.60-CL-14786821  | 18-11-2020   | UE4.26           | `.rar`         | [Download](https://public.simplyblk.xyz/14.60.rar) / [Download 2](https://builds.fn-builds.net/14.60-CL-14786821.rar)    | The Devourer of Worlds |
 
 #### Season 5
 
@@ -257,18 +256,18 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 16.20   | 16.20-CL-N/A       | 13-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 16.30   | 16.30-CL-N/A       | 27-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 16.40   | 16.40-CL-16218553  | 11-05-2021   | UE4.26.1         | `.rar`         | [Download](https://public.simplyblk.xyz/16.40.rar)    | None         |
-| 16.50   | 16.50-CL-N/A       | 25-05-2021   | UE4.26.1         | `.zip`         | [Download](https://galaxiafn.co.uk/16.50.zip)         | None         |
+| 16.50   | 16.50-CL-14786821  | 25-05-2021   | UE4.26.1         | `.zip`         | [Download](https://galaxiafn.co.uk/16.50.zip) / [Download 2](https://builds.fn-builds.net/16.50-CL-16432754.7z)         | None         |
 
 #### Season 7
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
 | 17.00   | 17.00-CL-N/A       | 08-06-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
-| 17.10   | 17.10-CL-N/A       | 22-06-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 17.10   | 17.10-CL-N/A       | 22-06-2021   | UE4.26.1         | `.rar`         | [Download](https://builds.fn-builds.net/17.10-CL-16745144.rar) | None         |
 | 17.20   | 17.20-CL-N/A       | 20-07-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 17.21   | 17.21-CL-N/A       | 27-07-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
 | 17.30   | 17.30-CL-N/A       | 03-08-2021   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/17.30.zip)    | Rift Tour    |
-| 17.40   | 17.40-CL-N/A       | 17-08-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
+| 17.40   | 17.40-CL-N/A       | 17-08-2021   | UE4.26.1         | `.7z`          | [Download](https://builds.fn-builds.net/17.40-CL-17269705.7z) | None         |
 | 17.50   | 17.50-CL-N/A       | 31-08-2021   | UE4.26.1         | `.zip`         | [Download](https://public.simplyblk.xyz/17.50.zip)    | Operation: Sky Fire |
 
 #### Season 8
@@ -291,8 +290,8 @@ Please respect the hard work and dedication of all contributors. 🙏
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
 | 19.00   | 19.00-CL-18049531  | 05-12-2021   | UE5.0            | `.7z`          | [Download](https://archive.org/details/fortnite-19.01.7z) | None         |
 | 19.01   | 19.01-CL-18380290  | 14-12-2021   | UE5.0            | `.7z`          | [Download](https://r2.ploosh.dev/19.01.zip)           | None         |
-| 19.10   | 19.10-CL-18675304  | 18-01-2022   | UE5.0            | `.rar`         | [Download](https://public.simplyblk.xyz/19.10.rar) / [Download 2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) | None         |
-| 19.20   | 19.20-CL-N/A       | 01-02-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 19.10   | 19.10-CL-18675304  | 18-01-2022   | UE5.0            | `.rar`         | [Download](https://public.simplyblk.xyz/19.10.rar) / [Download 2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) / [Download](https://builds.fn-builds.net/19.10.rar) | None         |
+| 19.20   | 19.20-CL-N/A       | 01-02-2022   | UE5.N/A          | `N/A`          | [Download](https://builds.fn-builds.net/19.20-CL-18775446.7z) | None         |
 | 19.30   | 19.30-CL-N/A       | 15-02-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
 | 19.40   | 19.40-CL-N/A       | 01-03-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
 
@@ -303,7 +302,7 @@ Please respect the hard work and dedication of all contributors. 🙏
 | 20.10   | 20.10-CL-N/A       | 05-04-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
 | 20.20   | 20.20-CL-N/A       | 19-04-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
 | 20.30   | 20.30-CL-N/A       | 03-05-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 20.40   | 20.40-CL-20244966  | 17-05-2022   | UE5.1            | `.zip`         | [Download](https://public.simplyblk.xyz/20.40.zip) / [Download 2](https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view) / [Download 3](https://web.archive.org/web/20250119063536/https://public.simplyblk.xyz/20.40.zip) | Collision / Collider Pulse |
+| 20.40   | 20.40-CL-20244966  | 17-05-2022   | UE5.1            | `.zip` / `.7z` | [Download](https://public.simplyblk.xyz/20.40.zip) / [Download 2](https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view) / [Download 3](https://web.archive.org/web/20250119063536/https://public.simplyblk.xyz/20.40.zip) / [Download 4](https://builds.fn-builds.net/20.40-CL-20244966.7z) | Collision / Collider Pulse |
 
 #### Season 3
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
@@ -343,11 +342,11 @@ Please respect the hard work and dedication of all contributors. 🙏
 #### Season 3
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|------------------------------------------------------|--------------|
-| 25.00   | 25.00-CL-N/A       | 09-06-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 25.10   | 25.10-CL-N/A       | 20-06-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 25.11   | 25.11-CL-N/A       | 04-07-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 25.20   | 25.20-CL-N/A       | 26-07-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
-| 25.30   | 25.30-CL-N/A       | 08-08-2023   | UE5.N/A          | `.7z`          | **Link not available**                                | None         |
+| 25.00   | 25.00-CL-25909622  | 09-06-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/25.00-CL-25909622.7z) | None         |
+| 25.10   | 25.10-CL-26000959  | 20-06-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/25.10-CL-26000959.7z) | None         |
+| 25.11   | 25.11-CL-26171015  | 04-07-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/25.11-CL-26171015.7z) | None         |
+| 25.20   | 25.20-CL-26474516  | 26-07-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/25.20-CL-26474516.7z) / [Donload 2](https://builds.fn-builds.net/25.20-CL-26629111.7z) | None         |
+| 25.30   | 25.30-CL-26867995  | 08-08-2023   | UE5.N/A          | `.7z`          | [Download](https://builds.fn-builds.net/25.30-CL-26867995.7z) | None         |
 
 #### Season 4
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
