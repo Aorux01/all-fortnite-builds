@@ -27,7 +27,7 @@ If you would like to **suggest builds**, please feel free to contact me!
 # Objective
 
 This project was born out of a lack of interest, with the goal of gathering as many Fortnite builds as possible in one place.
-It's a centralized archive for downloading versions from torrents.
+It's a centralized archive for downloading versions from (torrents) -> All torrent links are down, there are just links to hosted files.
 
 ---
 
