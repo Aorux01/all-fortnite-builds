@@ -34,9 +34,10 @@ It's a centralized archive for downloading versions from hosted files.
 # 🙏 Credits
 
 A big thank you to everyone who hosted and archived these releases:
-- [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
 - [n6617x](https://github.com/n6617x) 💾
 - [ByZNexus](https://github.com/ByZNexus) 💾
+- [0729tai](https://fn-builds.net/) 💾
+- [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
 
 Please respect the hard work and dedication of all contributors. 🙏
 
@@ -50,103 +51,60 @@ Please respect the hard work and dedication of all contributors. 🙏
 | Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
 |---------|--------------------------|--------------|------------------|----------------|----------------------------------------------------------------------------------------------------------------|-------------|
 | N/A     | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip)                                                           | | 27.11   | 27.11-CL-29739262  | 23-11-2023   | UE5.0            | `N/A`          | **Link not available** | None         |
+# 🎮 Fortnite Builds Archive
+📋 Complete list and download links for all Fortnite builds available online.
+
+Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
+
+If **Epic Games** has any questions regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.
+
+If you would like to **suggest builds**, please feel free to contact me!
 
 ---
 
-## 📔 Chapter 5
-
-#### 🏛️ Season 1
-| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 28.00   | 28.00-CL-29915848  | 03-12-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.01   | 28.01-CL-30106568  | 06-09-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.01.01 | 28.01.01-CL-30313795 | N/A          | UE5.N/A          | `N/A`          | **Link not available**  | None         |
-| 28.10   | 28.10-CL-30676362  | 23-01-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.20   | 28.20-CL-31286935  | 09-02-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.30   | 28.30-CL-31511038  | 27-02-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-
-#### 🏴‍☠️ Season 2
-| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 29.00   | 29.00-CL-32116959  | 08-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.01   | 29.01-CL-32291970  | 19-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.10   | 29.10-CL-32391220  | 26-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.20   | 29.20-CL-32716692  | 09-04-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.30   | 29.30-CL-32982357  | 23-04-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.40   | 29.40-CL-33629566  | 03-05-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-
-#### 🏖️ Season 3
-| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 30.00   | 30.00-CL-33962396  | 24-05-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 30.10   | 30.10-CL-34261954  | 13-06-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 30.20   | 30.20-CL-34597766  | 22-06-2024   | UE5.N/A          | `N/A`          | **Link not available**  | None         |
-| 30.30   | 30.30-CL-34891016  | 23-07-2024   | UE5.N/A          | `N/A`          | **Link not available**  | None         |
-| 30.40   | 30.40-CL-N/A       | 03-08-2024   | UE5.N/A          | `N/A`          | **Soon**                                              | None         |
-
-#### 🦸‍♀️ Season 4
-| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 31.00   | 31.00-CL-35447195  | 16-08-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 31.10   | 31.10-CL-35815136  | 04-09-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 31.20   | 31.20-CL-N/A       | 17-09-2024   | UE5.N/A          | `N/A`          | **Soon**                                              | None         |
-| 31.30   | 31.30-CL-36600465  | 01-10-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 31.40   | 31.40-CL-N/A       | 12-10-2024   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 31.41   | 31.41-CL-N/A       | 01-11-2024   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+# 📑 Table of Contents
+- [🎯 Objective](#objective)
+- [🙏 Credits](#credits)
+- [📚 Chapter Archives](#chapter-archives)
+- [📖 Chapter 1](#chapter-1)
+- [📗 Chapter 2](#chapter-2)
+- [📘 Chapter 3](#chapter-3)
+- [📕 Chapter 4](#chapter-4)
+- [📙 Chapter 1 OG](#chapter-1-og)
+- [📔 Chapter 5](#chapter-5)
+- [📓 Chapter 2 REMIX](#chapter-2-remix)
+- [ℹ️ Additional Information](#additional-information)
 
 ---
 
-## 📓 Chapter 2 REMIX
+# 🎯 Objective
 
-#### 🎵 Season
-| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 32.00   | 32.00-CL-37505882  | 02-11-2024   | UE5.0            | `N/A`          | **Link not available**  | None         |
-| 32.10   | 32.10-CL-N/A       | 14-11-2024   | UE5.0            | `N/A`          | **Link not available**                                | None         |
-| 32.11   | 32.11-CL-38202817  | 21-11-2024   | UE5.0            | `N/A`          | **Link not available**  | None         |
+This project was born out of a lack of interest, with the goal of gathering as many Fortnite builds as possible in one place.
+It's a centralized archive for downloading versions from hosted files.
 
 ---
 
-# ℹ️ Additional Information
+# 🙏 Credits
 
-## 📝 Important Notes
-- If you want to contribute additional builds, please contact me at [@aorux01](#) on Discord. 💬
-- All builds available are Windows versions. For other platforms, check specialized archives. 🪟
-- Some links may require bypassing download limits - check online tutorials for solutions. 🔓
-- Always verify file integrity before running any builds. ✅
+A big thank you to everyone who hosted and archived these releases:
+- [n6617x](https://github.com/n6617x) 💾
+- [ByZNexus](https://github.com/ByZNexus) 💾
+- [0729tai](https://fn-builds.net/) 💾
+- [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
 
-## 🔗 Platform-Specific Archives
-
-For builds on alternative platforms, visit these specialized archives:
-
-- 📱 [Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)
-- 🇨🇳 [Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)
-- 📲 [iOS Builds Archive](https://github.com/Repressoh/Fortnite-iOS-Archive)
-- 🎮 [Nintendo Switch Builds Archive](https://switch-builds.ezfn.dev/tinfoil_unfiltered.json)
-- 🎮 [PS4 Builds Archive](https://orbispatches.com/CUSA07022)
-- 🎮 [Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
-
-## 💡 Tips & Troubleshooting
-
-- **Google Drive "Too many downloads" error?** Try the [bypass method](https://www.youtube.com/watch?v=_xW9w1d2LEY) 🔄
-- **Links not working?** Some require multiple attempts or different browsers 🌐
-- **Need manifests?** Check [Legendary tool](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [FN Releases](https://github.com/polynite/fn-releases) 📦
-
-## 🤝 Contributing
-
-Have a lost or rare build? Upload it and send the link! Every contribution helps preserve Fortnite's history. 📚
-
-## ⚠️ Disclaimer
-
-This repository is for educational and archival purposes only. All builds are the property of Epic Games. Use at your own discretion and responsibility. 🎯
+Please respect the hard work and dedication of all contributors. 🙏
 
 ---
 
-**🌟 Star this repository to support the project!**
+# 📚 Chapter Archives
 
-*Last updated: August 2025* 📅        |
-| N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | [📥 Download](https://rebrand.ly/1_2_X)                                                                           | None        |
-| N/A     | 1.2-CL-3541083           | 21-07-17     | UE4.16-3541083   | `.7z`          | [📥 Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) | None        |
+## 📖 Chapter 1
+
+#### 🚀 Pre-BattleRoyale
+| Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
+|---------|--------------------------|--------------|------------------|----------------|----------------------------------------------------------------------------------------------------------------|-------------|
+| N/A     | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip) | None        |                               | N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | **ERROR**
+| N/A     | 1.2-CL-3541083 | None        |         | 21-07-17     | UE4.16-3541083   | `.7z`          | [📥 Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) | None        |
 
 #### 🌟 Season 0 & 1
 
@@ -464,4 +422,100 @@ This repository is for educational and archival purposes only. All builds are th
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
 | 27.00   | 27.00-CL-29072304  | 03-11-2023   | UE5.0            | `N/A`          | **Link not available** | None         |
 | 27.10   | 27.10-CL-29552510  | 16-11-2023   | UE5.0            | `N/A`          | **Link not available** | None         |
-| 27.11   | 27.11-CL-29739262  | 23-11-2023   | UE5
+| 27.11   | 27.11-CL-29739262  | 23-11-2023   | UE5.0            | `N/A`          | **Link not available**      |
+| N/A     |
+
+---
+
+## 📔 Chapter 5
+
+#### 🏛️ Season 1
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 28.00   | 28.00-CL-29915848  | 03-12-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 28.01   | 28.01-CL-30106568  | 06-12-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 28.01.01 | 28.01.01-CL-30313795 | N/A          | UE5.N/A          | `N/A`          | **Link not available**  | None         |
+| 28.10   | 28.10-CL-30676362  | 23-01-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 28.20   | 28.20-CL-31286935  | 09-02-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 28.30   | 28.30-CL-31511038  | 27-02-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+
+#### 🏴‍☠️ Season 2
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 29.00   | 29.00-CL-32116959  | 08-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 29.01   | 29.01-CL-32291970  | 19-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 29.10   | 29.10-CL-32391220  | 26-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 29.20   | 29.20-CL-32716692  | 09-04-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 29.30   | 29.30-CL-32982357  | 23-04-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 29.40   | 29.40-CL-33629566  | 03-05-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+
+#### 🏖️ Season 3
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 30.00   | 30.00-CL-33962396  | 24-05-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 30.10   | 30.10-CL-34261954  | 13-06-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 30.20   | 30.20-CL-34597766  | 22-06-2024   | UE5.N/A          | `N/A`          | **Link not available**  | None         |
+| 30.30   | 30.30-CL-34891016  | 23-07-2024   | UE5.N/A          | `N/A`          | **Link not available**  | None         |
+| 30.40   | 30.40-CL-N/A       | 03-08-2024   | UE5.N/A          | `N/A`          | **Soon**                                              | None         |
+
+#### 🦸‍♀️ Season 4
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 31.00   | 31.00-CL-35447195  | 16-08-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 31.10   | 31.10-CL-35815136  | 04-09-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 31.20   | 31.20-CL-N/A       | 17-09-2024   | UE5.N/A          | `N/A`          | **Soon**                                              | None         |
+| 31.30   | 31.30-CL-36600465  | 01-10-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 31.40   | 31.40-CL-N/A       | 12-10-2024   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 31.41   | 31.41-CL-N/A       | 01-11-2024   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+
+---
+
+## 📓 Chapter 2 REMIX
+
+#### 🎵 Season
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 32.00   | 32.00-CL-37505882  | 02-11-2024   | UE5.0            | `N/A`          | **Link not available**  | None         |
+| 32.10   | 32.10-CL-N/A       | 14-11-2024   | UE5.0            | `N/A`          | **Link not available**                                | None         |
+| 32.11   | 32.11-CL-38202817  | 21-11-2024   | UE5.0            | `N/A`          | **Link not available**  | None         |
+
+---
+
+# ℹ️ Additional Information
+
+## 📝 Important Notes
+- If you want to contribute additional builds, please contact me at [@aorux01](#) on Discord. 💬
+- All builds available are Windows versions. For other platforms, check specialized archives. 🪟
+- Some links may require bypassing download limits - check online tutorials for solutions. 🔓
+- Always verify file integrity before running any builds. ✅
+
+## 🔗 Platform-Specific Archives
+
+For builds on alternative platforms, visit these specialized archives:
+
+- 📱 [Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)
+- 🇨🇳 [Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)
+- 📲 [iOS Builds Archive](https://github.com/Repressoh/Fortnite-iOS-Archive)
+- 🎮 [Nintendo Switch Builds Archive](https://switch-builds.ezfn.dev/tinfoil_unfiltered.json)
+- 🎮 [PS4 Builds Archive](https://orbispatches.com/CUSA07022)
+- 🎮 [Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
+
+## 💡 Tips & Troubleshooting
+
+- **Google Drive "Too many downloads" error?** Try the [bypass method](https://www.youtube.com/watch?v=_xW9w1d2LEY) 🔄
+- **Links not working?** Some require multiple attempts or different browsers 🌐
+- **Need manifests?** Check [Legendary tool](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [FN Releases](https://github.com/polynite/fn-releases) 📦
+
+## 🤝 Contributing
+
+Have a lost or rare build? Upload it and send the link! Every contribution helps preserve Fortnite's history. 📚
+
+## ⚠️ Disclaimer
+
+This repository is for educational and archival purposes only. All builds are the property of Epic Games. Use at your own discretion and responsibility. 🎯
+
+---
+
+**🌟 Star this repository to support the project!**
+
+*Last updated: 8th August 2025* 📅        
