@@ -36,7 +36,6 @@ It's a centralized archive for downloading versions from hosted files.
 A big thank you to everyone who hosted and archived these releases:
 - [n6617x](https://github.com/n6617x) 💾
 - [ByZNexus](https://github.com/ByZNexus) 💾
-- [0729tai](https://fn-builds.net/) 💾
 - [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
 
 Please respect the hard work and dedication of all contributors. 🙏
