@@ -49,59 +49,6 @@ Please respect the hard work and dedication of all contributors. 🙏
 #### 🚀 Pre-BattleRoyale
 | Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
 |---------|--------------------------|--------------|------------------|----------------|----------------------------------------------------------------------------------------------------------------|-------------|
-| N/A     | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip)                                                           | | 27.11   | 27.11-CL-29739262  | 23-11-2023   | UE5.0            | `N/A`          | **Link not available** | None         |
-# 🎮 Fortnite Builds Archive
-📋 Complete list and download links for all Fortnite builds available online.
-
-Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
-
-If **Epic Games** has any questions regarding this repository, please feel free to contact me directly via [@aorux01](#) on Discord.
-
-If you would like to **suggest builds**, please feel free to contact me!
-
----
-
-# 📑 Table of Contents
-- [🎯 Objective](#objective)
-- [🙏 Credits](#credits)
-- [📚 Chapter Archives](#chapter-archives)
-- [📖 Chapter 1](#chapter-1)
-- [📗 Chapter 2](#chapter-2)
-- [📘 Chapter 3](#chapter-3)
-- [📕 Chapter 4](#chapter-4)
-- [📙 Chapter 1 OG](#chapter-1-og)
-- [📔 Chapter 5](#chapter-5)
-- [📓 Chapter 2 REMIX](#chapter-2-remix)
-- [ℹ️ Additional Information](#additional-information)
-
----
-
-# 🎯 Objective
-
-This project was born out of a lack of interest, with the goal of gathering as many Fortnite builds as possible in one place.
-It's a centralized archive for downloading versions from hosted files.
-
----
-
-# 🙏 Credits
-
-A big thank you to everyone who hosted and archived these releases:
-- [n6617x](https://github.com/n6617x) 💾
-- [ByZNexus](https://github.com/ByZNexus) 💾
-- [0729tai](https://fn-builds.net/) 💾
-- [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
-
-Please respect the hard work and dedication of all contributors. 🙏
-
----
-
-# 📚 Chapter Archives
-
-## 📖 Chapter 1
-
-#### 🚀 Pre-BattleRoyale
-| Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
-|---------|--------------------------|--------------|------------------|----------------|----------------------------------------------------------------------------------------------------------------|-------------|
 | N/A     | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip) | None        |                               | N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | **ERROR**
 | N/A     | 1.2-CL-3541083 | None        |         | 21-07-17     | UE4.16-3541083   | `.7z`          | [📥 Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) | None        |
 
