@@ -34,10 +34,8 @@ It's a centralized archive for downloading versions from hosted files.
 A big thank you to everyone who hosted and archived these releases:
 - [n6617x](https://github.com/n6617x) 💾
 - [ByZNexus](https://github.com/ByZNexus) 💾
-- [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
 - [Llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive) 💾
-
-Please respect the hard work and dedication of all contributors. 🙏
+- [me](https://github.com/Aorux01/Fn-Archive-Builds) 💾
 
 ---
 
