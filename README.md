@@ -247,7 +247,7 @@ A big thank you to everyone who hosted and archived these releases:
 | 11.00   | 11.00-CL-9562734   | 15-10-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.00-CL-9562734.7z) / [📥 Download 2](https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z) | None         |
 | 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/11.00.zip) | None         |
 | 11.01   | 11.01-CL-9728272   | 29-10-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.01-CL-97282720.7z)                                | None         |
-| 11.10   | 11.10-CL-9844520   | 13-11-2019   | UE4.N/A           | `N/A`          | **Link not available**                                | None         |            
+| 11.10   | 11.10-CL-9844520   | 13-11-2019   | UE4.24           | `N/A`          | **Link not available**                                | None         |            
 | 11.10   | 11.10-CL-9901083   | 13-11-2019   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z) / [📥 Download 2](https://fn-builds.repressoh.it/11.10-CL-9901083.7z) | None         |
 | 11.11   | 11.11-CL-10082788  | 20-11-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.11-CL-10082788.7z)                                | None         |
 | 11.20   | 11.20-CL-10328358  | 23-12-2019   | UE4.24           | `N/A`          | **Build lost** | None         |
@@ -268,84 +268,132 @@ A big thank you to everyone who hosted and archived these releases:
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 12.00   | 12.00-CL-11586896  | 20-02-2020   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-12.00-CL-11586896.7z)    | None         |
-| 12.10   | 12.10-CL-N/A       | 03-03-2020   | UE4.N/A          | `N/A`          | **Link not available** | None         |
-| 12.20   | 12.20-CL-N/A       | 17-03-2020   | UE4.N/A          | `N/A`          | **Link not available**                                | None         |
-| 12.21   | 12.21-CL-N/A       | 24-03-2020   | UE4.25           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/12.21.zip)    | None         |
-| 12.30   | 12.30-CL-N/A       | 31-03-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
-| 12.40   | 12.40-CL-N/A       | 15-04-2020   | UE4.25           | `N/A`          | **Link not available**                                | None         |
-| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [📥 Download](https://cdn.fortnitearchive.com/Fortnite%2012.41.zip) / [📥 Download 2](https://fnbuilds.boostedv2.dev/12.41.rar) / [📥 Download 3](https://cdn.aufgeladen.dev/12.41.zip) | 🎤 Travis Scott  |
-| 12.50   | 12.50-CL-N/A       | 29-04-2020   | UE4.25           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/12.50.zip)    | None         |
-| 12.60   | 12.60-CL-13477524  | 20-05-2020   | UE4.25           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z)                                | None         |
-| 12.61   | 12.61-CL-N/A       | 26-05-2020   | UE4.25           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/12.61.zip)    | 🔧 The Device   |
+| 12.00   | 12.00-CL-11556442  | 20-02-2020   | UE4.24           | N/A | **Build lost** | None |
+| 12.00   | 12.00-CL-11566760  | 20-02-2020   | UE4.24           | N/A | **Build lost** | None |
+| 12.00   | 12.00-CL-11586896  | 20-02-2020   | UE4.24           | `.7z` / `.rar` | [📥 Download](https://cdn.fortnitearchive.com/12.00.rar) / [📥 Download 2](https://fn-builds.repressoh.it/12.00-CL-11586896.7z) | None |
+| 12.10   | 12.10-CL-11794982  | 03-03-2020   | UE4.N/A           | N/A | **Build lost** | None |
+| 12.10   | 12.10-CL-11883027  | 03-03-2020   | UE4.N/A           | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/12.10.zip) / [📥 Download 2](https://fn-builds.repressoh.it/12.10.zip) / [📥 Download 3](https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view) | None |
+| 12.20   | 12.20-CL-12170032  | 17-03-2020   | UE4.N/A           | N/A | **Build lost** | None |
+| 12.20   | 12.20-CL-12236980  | 17-03-2020   | UE4.N/A           | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/12.20.rar) / [📥 Download 2](https://fn-builds.repressoh.it/12.20.rar) | None |
+| 12.21   | 12.21-CL-12353830  | 24-03-2020   | UE4.25           | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/12.21.zip) / [📥 Download 2](https://fn-builds.repressoh.it/12.21.zip) / [📥 Download 3](https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view) | None |
+| 12.30   | 12.30-CL-12493283  | 31-03-2020   | UE4.25           | N/A | **Link not available** | None |
+| 12.30   | 12.30-CL-12624643  | 31-03-2020   | UE4.25           | N/A | **Link not available** | None |
+| 12.40   | 12.40-CL-12837456  | 15-04-2020   | UE4.25          | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/12.40.rar) / [📥 Download 2](https://fn-builds.repressoh.it/12.40.rar) | None |
+| 12.41   | 12.41-CL-12905909  | 21-04-2020   | UE4.25           | `.zip` / `.rar` | [📥 Download](https://cdn.fortnitearchive.com/Fortnite%2012.41.zip) / [📥 Download 2](https://cdn.cbn.lol/12.41) / [📥 Download 3](https://fentti.xyz/upload/12.41.zip) / [📥 Download 4](https://fnbuilds.boostedv2.dev/12.41.rar) / [📥 Download 5](https://cdn.aufgeladen.dev/12.41.zip) | 🎤 Travis Scott |
+| 12.50   | 12.50-CL-13044369  | 29-04-2020   | UE4.25           | N/A | **Build lost** | None |
+| 12.50   | 12.50-CL-13137020  | 29-04-2020   | UE4.25           | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/12.50.zip) / [📥 Download 2](https://fn-builds.repressoh.it/12.50.zip) / [📥 Download 3](https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view) | None |
+| 12.50   | 12.50-CL-13193885  | 29-04-2020   | UE4.25           | N/A | **Build lost** | None |
+| 12.60   | 12.60-CL-13315662  | 20-05-2020   | UE4.25           | N/A | **Build lost** | None |
+| 12.60   | 12.60-CL-13477524  | 20-05-2020   | UE4.25           | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z) / [📥 Download 2](https://fn-builds.repressoh.it/12.60-CL-13477524.7z) | None |
+| 12.61   | 12.61-CL-13498980  | 26-05-2020   | UE4.25           | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/12.61.zip) / [📥 Download 2](https://saturn.nxa.app/12.61.zip) / [📥 Download 3](https://fn-builds.repressoh.it/12.61.zip) | 🔧 The Device |
 
 #### 🌊 Season 3
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 13.00   | 13.00-CL-N/A       | 27-06-2020   | UE4.26           | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/13.00.rar)    | None         |
-| 13.10   | 13.10-CL-N/A       | 23-06-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 13.20   | 13.20-CL-N/A       | 30-06-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 13.30   | 13.30-CL-N/A       | 21-07-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 13.40   | 13.40-CL-14113327  | 05-08-2020   | UE4.26           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/13.40.zip)    | None         |
+| 13.00 | 13.00-CL-13649278 | 27-06-2020 | UE4.26 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/13.00.rar) / [📥 Download 2](https://fn-builds.repressoh.it/13.00.rar) | None |
+| 13.00 | 13.00-CL-13696059 | 27-06-2020 | UE4.26 | N/A | **Build lost** | None |
+| 13.00 | 13.00-CL-13715544 | 27-06-2020 | UE4.26 | N/A | **Build lost** | None |
+| 13.10 | 13.10-CL-N/A | 23-06-2020 | UE4.26 | N/A | **Link not available** | None |
+| 13.20 | 13.20-CL-13777676 | 30-06-2020 | UE4.26 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/13.20.rar) / [📥 Download 2](https://fn-builds.repressoh.it/13.20-CL-13777676.rar) | None |
+| 13.30 | 13.30-CL-13884634 | 21-07-2020 | UE4.26 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/13.30.rar) / [📥 Download 2](https://fn-builds.repressoh.it/13.30.rar) | None |
+| 13.40 | 13.40-CL-14008768 | 05-08-2020 | UE4.26 | N/A | **Build lost** | None |
+| 13.40 | 13.40-CL-14036559 | 05-08-2020 | UE4.26 | N/A | **Link not available** | None |
+| 13.40 | 13.40-CL-14113327 | 05-08-2020 | UE4.26 | `.zip` / `.rar` | [📥 Download](https://cdn.fortnitearchive.com/13.40.zip) / [📥 Download 2](https://forcedfnbuilds.website/13.40.rar) / [📥 Download 3](https://fn-builds.repressoh.it/13.40.zip) | None |
 
 #### 🦸 Season 4
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 14.00   | 14.00-CL-N/A       | 27-08-2020   | UE4.26           | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/14.00.rar)    | None         |
-| 14.10   | 14.10-CL-N/A       | 10-09-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 14.20   | 14.20-CL-N/A       | 23-09-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 14.30   | 14.30-CL-N/A       | 13-10-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 14.40   | 14.40-CL-14550713  | 21-10-2020   | UE4.26           | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/14.40.rar)    | None         |
-| 14.50   | 14.50-CL-N/A       | 03-11-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 14.60   | 14.60-CL-14786821  | 18-11-2020   | UE4.26           | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/14.60.rar)    | 🌌 The Devourer of Worlds |
+| 14.00 | 14.00-CL-14173417 | 27-08-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.00 | 14.00-CL-14199892 | 27-08-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.00 | 14.00-CL-14211474 | 27-08-2020 | UE4.26 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/14.00.rar) / [📥 Download 2](https://fn-builds.repressoh.it/14.00.rar) | None |
+| 14.10 | 14.10-CL-14276912 | 10-09-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.10 | 14.10-CL-14288110 | 10-09-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.10 | 14.10-CL-14312695 | 10-09-2020 | UE4.26 | `.rar` | [📥 Download](https://fn-builds.repressoh.it/14.10-CL-14312695.rar) | None |
+| 14.20 | 14.20-CL-14354056 | 23-09-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.20 | 14.20-CL-14375974 | 23-09-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.20 | 14.20-CL-14384759 | 23-09-2020 | UE4.26 | `.rar` | [📥 Download](https://fn-builds.repressoh.it/14.20-CL-14384759.rar) | None |
+| 14.30 | 14.30-CL-14456520 | 13-10-2020 | UE4.26 | `.zip` / `.rar` | [📥 Download](https://cdn.solarisfn.dev/Builds/14.30.zip) / [📥 Download 2](https://fn-builds.repressoh.it/14.30-CL-14456520.rar) / [📥 Download 3](https://gofile.io/d/47NC7f) | None |
+| 14.40 | 14.40-CL-14512399 | 21-10-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.40 | 14.40-CL-14550713 | 21-10-2020 | UE4.26 | `.rar` / `.zip` | [📥 Download](https://cdn.fortnitearchive.com/14.40.rar) / [📥 Download 2](https://cdn.solarisfn.dev/Builds/14.40.rar) / [📥 Download 3](https://nebulafn.com/downloads/14.40.zip) | None |
+| 14.50 | 14.50-CL-14617811 | 03-11-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.50 | 14.50-CL-14643651 | 03-11-2020 | UE4.26 | `.7z` | [📥 Download](https://fn-builds.repressoh.it/14.50-CL-14643651.7z) | None |
+| 14.60 | 14.60-CL-14756138 | 18-11-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.60 | 14.60-CL-14785135 | 18-11-2020 | UE4.26 | N/A | **Build lost** | None |
+| 14.60 | 14.60-CL-14786821 | 18-11-2020 | UE4.26 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/14.60.rar) / [📥 Download 2](https://fn-builds.repressoh.it/14.60.rar) / [📥 Download 3](https://buzzheavier.com/5deub93f6csc) | 🌌 The Devourer of Worlds |
 
 #### 🏹 Season 5
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 15.00   | 15.00-CL-14835335  | 02-12-2020   | UE4.26           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) | None         |
-| 15.10   | 15.10-CL-N/A       | 15-12-2020   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 15.20   | 15.20-CL-N/A       | 13-01-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 15.21   | 15.21-CL-15083856  | 20-01-2021   | UE4.26           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z)                                | None         |
-| 15.30   | 15.30-CL-15341163  | 02-02-2021   | UE4.26           | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/15.30.rar)    | None         |
-| 15.40   | 15.40-CL-N/A       | 16-02-2021   | UE4.26           | `N/A`          | **Link not available**                                | None         |
-| 15.50   | 15.50-CL-N/A       | 02-03-2021   | UE4.26           | `.zip`         | [📥 Download](https://galaxiafn.co.uk/15.50.zip)         | 🌀 Zero Crisis  |
+| 15.00 | 15.00-CL-14826719 | 02-12-2020 | UE4.26 | N/A | **Build lost** | None |
+| 15.00 | 15.00-CL-14835335 | 02-12-2020 | UE4.26 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) / [📥 Download 2](https://fn-builds.repressoh.it/15.00-CL-14835335.7z) | None |
+| 15.10 | 15.10-CL-14904303 | 15-12-2020 | UE4.26 | N/A | **Build lost** | None |
+| 15.10 | 15.10-CL-14937640 | 15-12-2020 | UE4.26 | N/A | **Build lost** | None |
+| 15.10 | 15.10-CL-15014719 | 15-12-2020 | UE4.26 | `.zip` | [📥 Download](https://fn-builds.repressoh.it/15.10-CL-15014719.zip) | None |
+| 15.20 | 15.20-CL-15033494 | 13-01-2021 | UE4.26 | N/A | **Build lost** | None |
+| 15.20 | 15.20-CL-15070882 | 13-01-2021 | UE4.26 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/15.20.rar) | None |
+| 15.21 | 15.21-CL-15083856 | 20-01-2021 | UE4.26 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) / [📥 Download 2](https://fn-builds.repressoh.it/15.21-CL-15083856.7z) | None |
+| 15.30 | 15.30-CL-15233634 | 02-02-2021 | UE4.26 | N/A | **Build lost** | None |
+| 15.30 | 15.30-CL-15316852 | 02-02-2021 | UE4.26 | N/A | **Build lost** | None |
+| 15.30 | 15.30-CL-15341163 | 02-02-2021 | UE4.26 | `.rar` / `.zip` | [📥 Download](https://cdn.fortnitearchive.com/15.30.rar) / [📥 Download 2](https://r2.ploosh.dev/15.30.zip) / [📥 Download 3](http://cdn.nebulafn.site/15.30.zip) / [📥 Download 4](https://fn-builds.repressoh.it/15.30.zip) | None |
+| 15.40 | 15.40-CL-15385160 | 16-02-2021 | UE4.26 | N/A | **Build lost** | None |
+| 15.40 | 15.40-CL-15419568 | 16-02-2021 | UE4.26 | N/A | **Build lost** | None |
+| 15.40 | 15.40-CL-15424013 | 16-02-2021 | UE4.26 | N/A | **Build lost** | None |
+| 15.40 | 15.40-CL-15496915 | 16-02-2021 | UE4.26 | N/A | **Link not available** | None |
+| 15.50 | 15.50-CL-15526472 | 02-03-2021 | UE4.26 | `.zip` | [📥 Download](https://fn-builds.repressoh.it/15.50.zip) / [📥 Download 2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view) | None |
+| 15.50 | 15.50-CL-15570449 | 02-03-2021 | UE4.26 | N/A | **Link not available** | None |
 
 #### 🏛️ Season 6
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 16.00   | 16.00-CL-15685441  | 16-03-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z)                     | 🌀 Zero Crisis  |
-| 16.10   | 16.10-CL-15913292  | 30-03-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z)                                | None         |
-| 16.20   | 16.20-CL-N/A       | 13-04-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
-| 16.30   | 16.30-CL-N/A       | 27-04-2021   | UE4.26.1         | `N/A`          | **Link not available**   | None         |
-| 16.40   | 16.40-CL-16218553  | 11-05-2021   | UE4.26.1         | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/16.40.rar)    | None         |
-| 16.50   | 16.50-CL-16469788  | 25-05-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z) / [📥 Download 2](https://galaxiafn.co.uk/16.50.zip)         | None         |
+| 16.00 | 16.00-CL-15685441 | 16-03-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) / [📥 Download 2](https://fn-builds.repressoh.it/16.00-CL-15685441.7z) | 🌀 Zero Crisis |
+| 16.00 | 16.00-CL-15713390 | 16-03-2021 | UE4.26.1 | N/A | **Build lost** | 🌀 Zero Crisis |
+| 16.00 | 16.00-CL-15727376 | 16-03-2021 | UE4.26.1 | N/A | **Link not available** | 🌀 Zero Crisis |
+| 16.10 | 16.10-CL-15851811 | 30-03-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 16.10 | 16.10-CL-15862581 | 30-03-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 16.10 | 16.10-CL-15898731 | 30-03-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 16.10 | 16.10-CL-15913292 | 30-03-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z) / [📥 Download 2](https://fn-builds.repressoh.it/16.10-CL-15913292.7z) | None |
+| 16.20 | 16.20-CL-16042441 | 13-04-2021 | UE4.26.1 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/16.20.rar) | None |
+| 16.30 | 16.30-CL-16086208 | 27-04-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 16.30 | 16.30-CL-16163563 | 27-04-2021 | UE4.26.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/16.30.zip) / [📥 Download 2](https://fn-builds.repressoh.it/16.30.zip) / [📥 Download 3](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) | None |
+| 16.40 | 16.40-CL-16218553 | 11-05-2021 | UE4.26.1 | `.rar` / `.zip` | [📥 Download](https://cdn.fortnitearchive.com/16.40.rar) / [📥 Download 2](https://fn-builds.repressoh.it/16.40.zip) | None |
+| 16.50 | 16.50-CL-16432754 | 25-05-2021 | UE4.26.1 | `.zip` | [📥 Download](https://fn-builds.repressoh.it/16.50.zip) / [📥 Download 2](https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view) | None |
+| 16.50 | 16.50-CL-16469788 | 25-05-2021 | UE4.26.1 | `.7z` / `.zip` | **Link not available** | None |
 
 #### 👽 Season 7
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 17.00   | 17.00-CL-N/A       | 08-06-2021   | UE4.26.1         | `N/A`          | **Link not available**                                | None         |
-| 17.10   | 17.10-CL-16745144  | 22-06-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-17.10-CL-16745144.7z) | None         |
-| 17.20   | 17.20-CL-16868155  | 20-07-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z)                                | None         |
-| 17.21   | 17.21-CL-16967001  | 27-07-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z)                                | None         |
-| 17.30   | 17.30-CL-N/A       | 03-08-2021   | UE4.26.1         | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/17.30.zip)    | 🎵 Rift Tour    |
-| 17.40   | 17.40-CL-17269705  | 17-08-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) | None         |
-| 17.50   | 17.50-CL-N/A       | 31-08-2021   | UE4.26.1         | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/17.50.zip)    | ⚡ Operation: Sky Fire |
+| 17.00 | 17.00-CL-16555138 | 08-06-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 17.00 | 17.00-CL-16593740 | 08-06-2021 | UE4.26.1 | `.rar` | [📥 Download](https://fn-builds.repressoh.it/17.00-CL-16593740.rar) | None |
+| 17.10 | 17.10-CL-16701187 | 22-06-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 17.10 | 17.10-CL-16745144 | 22-06-2021 | UE4.26.1 | `.7z` / `.rar` | [📥 Download](https://cdn.fortnitearchive.com/17.10.rar) / [📥 Download 2](https://fn-builds.repressoh.it/17.10-CL-16745144.7z) | None |
+| 17.20 | 17.20-CL-16868155 | 20-07-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) / [📥 Download 2](https://fn-builds.repressoh.it/17.20-CL-16868155.7z) | None |
+| 17.21 | 17.21-CL-16949556 | 27-07-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 17.21 | 17.21-CL-16967001 | 27-07-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z) / [📥 Download 2](https://fn-builds.repressoh.it/17.21-CL-16967001.7z) | None |
+| 17.30 | 17.30-CL-17004569 | 03-08-2021 | UE4.26.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/17.30.zip) / [📥 Download 2](https://cdn.fortmp.dev/17.30.zip) / [📥 Download 3](https://fn-builds.repressoh.it/17.30.zip) | 🎵 Rift Tour |
+| 17.40 | 17.40-CL-17215766 | 17-08-2021 | UE4.26.1 | N/A | **Build lost** | None |
+| 17.40 | 17.40-CL-17269705 | 17-08-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) / [📥 Download 2](https://fn-builds.repressoh.it/17.40-CL-17269705.7z) | None |
+| 17.50 | 17.50-CL-17328477 | 31-08-2021 | UE4.26.1 | N/A | **Build lost** | ⚡ Operation: Sky Fire |
+| 17.50 | 17.50-CL-17388565 | 31-08-2021 | UE4.26.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/17.50.zip) / [📥 Download 2](https://fn-builds.repressoh.it/17.50.zip) / [📥 Download 3](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) | ⚡ Operation: Sky Fire |
 
+---
 #### 🧡 Season 8
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 18.00   | 18.00-CL-17468642  | 13-09-2021   | UE4.26.1         | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/18.00.rar) | None         |
-| 18.10   | 18.10-CL-17661844  | 21-09-2021   | UE4.26.1         | `N/A`          | **Link not available** | None         |
-| 18.20   | 18.20-CL-17792290  | 12-10-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) | None         |
-| 18.21   | 18.21-CL-17811397  | 19-10-2021   | UE4.26.1         | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | None         |
-| 18.30   | 18.30-CL-17882303  | 26-10-2021   | UE4.26.1         | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/18.30.7z) | None         |
-| 18.40   | 18.40-CL-18163738  | 16-11-2022   | UE4.26.1         | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/18.40.zip)    | 🔚 Chapter 2 Finale |
+| 18.00 | 18.00-CL-17468642 | 13-09-2021 | UE4.26.1 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/18.00.rar) / [📥 Download 2](https://fn-builds.repressoh.it/18.00.rar) / [📥 Download 3](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) | None |
+| 18.00 | 18.00-CL-17519952 | 13-09-2021 | UE4.26.1 | N/A | **Link not available** | None |
+| 18.10 | 18.10-CL-17619277 | 21-09-2021 | UE4.26.1 | `.7z` | [📥 Download](https://www.dropbox.com/scl/fi/lz5z5a1ue3pxfdokii2qv/18.10-CL-17619277.7z?rlkey=rhh3hnfsfgurlrs4lhundax7b&dl=1) | None |
+| 18.10 | 18.10-CL-17661844 | 21-09-2021 | UE4.26.1 | N/A / `.7z` | [📥 Download](https://cdn.cbn.lol/18.10) / [📥 Download 2](https://fn-builds.repressoh.it/18.10-CL-17661844.7z) | None |
+| 18.20 | 18.20-CL-17745267 | 12-10-2021 | UE4.26.1 | N/A / `.zip` | [📥 Download](https://cdn.cbn.lol/18.20) / [📥 Download 2](https://fn-builds.repressoh.it/18.20-CL-17745267.zip) | None |
+| 18.20 | 18.20-CL-17792290 | 12-10-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) / [📥 Download 2](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) | None |
+| 18.21 | 18.21-CL-17811397 | 19-10-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | None |
+| 18.30 | 18.30-CL-17882303 | 26-10-2021 | UE4.26.1 | `.7z` | [📥 Download](https://cdn.fortnitearchive.com/18.30.7z) / [📥 Download 2](https://fn-builds.repressoh.it/18.30.7z) | None |
+| 18.40 | 18.40-CL-18163738 | 16-11-2022 | UE4.26.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/18.40.zip) / [📥 Download 2](https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip) | 🔚 Chapter 2 Finale |
 
 ---
 
