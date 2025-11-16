@@ -393,148 +393,248 @@ A big thank you to everyone who hosted and archived these releases:
 | 18.20 | 18.20-CL-17792290 | 12-10-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) / [📥 Download 2](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) | None |
 | 18.21 | 18.21-CL-17811397 | 19-10-2021 | UE4.26.1 | `.7z` | [📥 Download](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | None |
 | 18.30 | 18.30-CL-17882303 | 26-10-2021 | UE4.26.1 | `.7z` | [📥 Download](https://cdn.fortnitearchive.com/18.30.7z) / [📥 Download 2](https://fn-builds.repressoh.it/18.30.7z) | None |
-| 18.40 | 18.40-CL-18163738 | 16-11-2022 | UE4.26.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/18.40.zip) / [📥 Download 2](https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip) | 🔚 Chapter 2 Finale |
+| 18.40 | 18.40-CL-18163738 | 16-11-2022 | UE4.26.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/18.40.zip) / [📥 Download 2](https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip) | 🔚 Chapter 2 Finale - The End |
 
 ---
-
 ## 📘 Chapter 3
 
 #### 🏗️ Season 1
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 19.00   | 19.00-CL-18049531  | 05-12-2021   | UE5.0            | `N/A`          | **Link not available** | None         |
-| 19.01   | 19.01-CL-18380290  | 14-12-2021   | UE5.0            | `N/A`          | **Link not available**           | None         |
-| 19.10   | 19.10-CL-18675304  | 18-01-2022   | UE5.0            | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/19.10.rar) | None         |
-| 19.20   | 19.20-CL-N/A       | 01-02-2022   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 19.30   | 19.30-CL-N/A       | 15-02-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 19.40   | 19.40-CL-N/A       | 01-03-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 19.00 | 19.00-CL-18049531 | 05-12-2021 | UE5.0 | N/A | **Link not available** | None |
+| 19.00 | 19.00-CL-18335626 | 05-12-2021 | UE5.0 | `.zip` / `.7z` | [📥 Download](https://cdn.fortnitearchive.com/19.01.zip) / [📥 Download 2](https://fn-builds.repressoh.it/19.00.zip) / [📥 Download 3](https://archive.org/compress/fortnite-19.01.7z) | None |
+| 19.00 | 19.00-CL-18380290 | 05-12-2021 | UE5.0 | N/A | **Link not available** | None |
+| 19.01 | 19.01-CL-18380290 | 14-12-2021 | UE5.0 | N/A | **Link not available** | None |
+| 19.01 | 19.01-CL-18415863 | 14-12-2021 | UE5.0 | N/A | **Build lost** | None |
+| 19.01 | 19.01-CL-18489740 | 14-12-2021 | UE5.0 | `.zip` | [📥 Download](https://r2.ploosh.dev/19.01.zip) / [📥 Download 2](https://fn-builds.repressoh.it/19.01-CL-18489740.zip) / [📥 Download 3](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) | None |
+| 19.10 | 19.10-CL-18581131 | 18-01-2022 | UE5.0 | N/A | **Build lost** | None |
+| 19.10 | 19.10-CL-18640491 | 18-01-2022 | UE5.0 | N/A | **Build lost** | None |
+| 19.10 | 19.10-CL-18675304 | 18-01-2022 | UE5.0 | `.rar` / `.zip` | [📥 Download](https://cdn.fortnitearchive.com/19.10.rar) / [📥 Download 2](https://fn-builds.repressoh.it/19.10.rar) / [📥 Download 3](https://crystal.ploosh.dev/19.10.zip) | None |
+| 19.20 | 19.20-CL-18775446 | 01-02-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 19.30 | 19.30-CL-18948597 | 15-02-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 19.30 | 19.30-CL-19027703 | 15-02-2022 | UE5.N/A | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/19.30.rar) / [📥 Download 2](https://fn-builds.repressoh.it/19.30-CL-19027703.rar) | None |
+| 19.40 | 19.40-CL-19167615 | 01-03-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 19.40 | 19.40-CL-19215531 | 01-03-2022 | UE5.N/A | `.7z` / `.zip` | [📥 Download](https://cdn.fortnitearchive.com/19.40.7z) / [📥 Download 2](https://fn-builds.repressoh.it/19.40.7z) / [📥 Download 3](https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1) | None |
+
+---
 
 #### ⚔️ Season 2
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 20.00   | 20.00-CL-N/A       | 20-03-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 20.10   | 20.10-CL-N/A       | 05-04-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 20.20   | 20.20-CL-N/A       | 19-04-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 20.30   | 20.30-CL-N/A       | 03-05-2022   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 20.40   | 20.40-CL-20244966  | 17-05-2022   | UE5.1            | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/20.40.zip) | 💥 Collision / Collider Pulse |
+| 20.00 | 20.00-CL-19458861 | 20-03-2022 | UE5.N/A | `.rar` / `.7z` | [📥 Download](https://cdn.fortnitearchive.com/20.00.rar) / [📥 Download 2](https://r2.kovryn.xyz/20.00-CL-19458861.7z) / [📥 Download 3](https://fn-builds.repressoh.it/20.00.rar) | None |
+| 20.00 | 20.00-CL-19532288 | 20-03-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 20.10 | 20.10-CL-19598943 | 05-04-2022 | UE5.N/A | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/20.10.zip) / [📥 Download 2](https://fn-builds.repressoh.it/20.10.zip) | None |
+| 20.20 | 20.20-CL-19751212 | 19-04-2022 | UE5.N/A | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/20.20.zip) / [📥 Download 2](https://fn-builds.repressoh.it/20.20.zip) | None |
+| 20.20 | 20.20-CL-19896998 | 19-04-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 20.30 | 20.30-CL-19950687 | 03-05-2022 | UE5.N/A | `.zip` | [📥 Download](https://cdn.cbn.lol/20.30) / [📥 Download 2](https://fn-builds.repressoh.it/20.30.zip) | None |
+| 20.30 | 20.30-CL-20037261 | 03-05-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 20.40 | 20.40-CL-20175294 | 17-05-2022 | UE5.1 | N/A | **Build lost** | 💥 Collision / Collider Pulse |
+| 20.40 | 20.40-CL-20244966 | 17-05-2022 | UE5.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/20.40.zip) / [📥 Download 2](https://fn-builds.repressoh.it/20.40-CL-20244966.zip) | 💥 Collision / Collider Pulse |
+
+---
 
 #### 🏖️ Season 3
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 21.00   | 21.00-CL-20548557  | 05-06-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
-| 21.10   | 21.10-CL-21159871  | 21-06-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
-| 21.20   | 21.20-CL-21179810  | 06-07-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
-| 21.30   | 21.30-CL-21155462  | 18-07-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
-| 21.40   | 21.40-CL-21407327  | 16-08-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
-| 21.50   | 21.50-CL-21245791  | 30-08-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
-| 21.51   | 21.51-CL-N/A       | 07-09-2022   | UE5.1            | `N/A`          | **Link not available** | None         |
+| 21.00 | 21.00-CL-20463113 | 05-06-2022 | UE5.1 | `.zip` | [📥 Download](https://r2.ploosh.dev/21.00.zip) / [📥 Download 2](https://fn-builds.repressoh.it/21.00.zip) / [📥 Download 3](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) | None |
+| 21.00 | 21.00-CL-20548557 | 05-06-2022 | UE5.1 | N/A | **Link not available** | None |
+| 21.10 | 21.10-CL-20696680 | 21-06-2022 | UE5.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/21.10.zip) / [📥 Download 2](https://fn-builds.repressoh.it/21.10.zip) | None |
+| 21.10 | 21.10-CL-20756627 | 21-06-2022 | UE5.1 | N/A | **Build lost** | None |
+| 21.10 | 21.10-CL-20777648 | 21-06-2022 | UE5.1 | N/A | **Build lost** | None |
+| 21.10 | 21.10-CL-20829351 | 21-06-2022 | UE5.1 | N/A | **Link not available** | None |
+| 21.20 | 21.20-CL-20890025 | 06-07-2022 | UE5.1 | N/A | **Link not available** | None |
+| 21.20 | 21.20-CL-20978394 | 06-07-2022 | UE5.1 | N/A / `.7z` | [📥 Download](https://cdn.cbn.lol/21.20) / [📥 Download 2](https://fn-builds.repressoh.it/21.20-CL-20978394.7z) | None |
+| 21.20 | 21.20-CL-21035704 | 06-07-2022 | UE5.1 | N/A | **Link not available** | None |
+| 21.30 | 21.30-CL-21102315 | 18-07-2022 | UE5.1 | N/A | **Build lost** | None |
+| 21.30 | 21.30-CL-21155462 | 18-07-2022 | UE5.1 | `.7z` | [📥 Download](https://fn-builds.repressoh.it/21.30-CL-21155462.7z) | None |
+| 21.40 | 21.40-CL-21348157 | 16-08-2022 | UE5.1 | N/A | **Build lost** | None |
+| 21.40 | 21.40-CL-21407327 | 16-08-2022 | UE5.1 | `.7z` | [📥 Download](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) | None |
+| 21.50 | 21.50-CL-21657658 | 30-08-2022 | UE5.1 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/21.50.zip) / [📥 Download 2](https://fn-builds.repressoh.it/21.50.zip) | None |
+| 21.51 | 21.51-CL-21735703 | 07-09-2022 | UE5.1 | `.7z` | [📥 Download](https://cdn.fortnitearchive.com/21.51.7z) / [📥 Download 2](https://fn-builds.repressoh.it/21.51.7z) | None |
+
+---
+
+#### 🍁 Season 4
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 22.00 | 22.00-CL-22026835 | 18-09-2022 | UE5.1 | N/A | **Build lost** | None |
+| 22.00 | 22.00-CL-22072684 | 18-09-2022 | UE5.1 | N/A | **Build lost** | None |
+| 22.00 | 22.00-CL-22107157 | 18-09-2022 | UE5.1 | N/A | **Build lost** | None |
+| 22.00 | 22.00-CL-22149829 | 18-09-2022 | UE5.1 | `.7z` | [📥 Download](https://cdn.fortnitearchive.com/22.00.7z) / [📥 Download 2](https://fn-builds.repressoh.it/22.00.7z) | None |
+| 22.10 | 22.10-CL-22240570 | 04-10-2022 | UE5.1 | N/A | **Build lost** | None |
+| 22.10 | 22.10-CL-22429549 | 04-10-2022 | UE5.1 | `.7z` | [📥 Download](https://fn-builds.repressoh.it/22.10-CL-22429549.7z) | None |
+| 22.20 | 22.20-CL-22523251 | 18-10-2022 | UE5.1 | N/A | **Build lost** | None |
+| 22.20 | 22.20-CL-22600409 | 18-10-2022 | UE5.1 | N/A | **Link not available** | None |
+| 22.30 | 22.30-CL-22803135 | 01-11-2022 | UE5.1 | N/A | **Link not available** | None |
+| 22.40 | 22.40-CL-23070899 | 15-11-2022 | UE5.1 | N/A | **Link not available** | None |
 
 ---
 
 ## 📕 Chapter 4
 
 #### 🗡️ Season 1
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 23.00   | 23.00-CL-23344627  | 04-12-2022   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 23.10   | 23.10-CL-23572221  | 13-12-2022   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 23.20   | 23.20-CL-23783097  | 18-01-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 23.30   | 23.30-CL-N/A       | 31-01-2023   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 23.40   | 23.40-CL-24087481  | 14-02-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 23.50   | 23.50-CL-N/A       | 28-02-2023   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 23.00 | 23.00-CL-23344627 | 04-12-2022 | UE5.N/A | `.7z` | [📥 Download](https://cdn.fortnitearchive.com/23.00.7z) / [📥 Download 2](https://fn-builds.repressoh.it/23.00.7z) | None |
+| 23.10 | 23.10-CL-23443094 | 13-12-2022 | UE5.N/A | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/23.10.rar) / [📥 Download 2](https://fn-builds.repressoh.it/23.10-CL-23443094.rar) | None |
+| 23.10 | 23.10-CL-23572221 | 13-12-2022 | UE5.N/A | N/A | **Link not available** | None |
+| 23.20 | 23.20-CL-23659353 | 18-01-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 23.20 | 23.20-CL-23783097 | 18-01-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 23.30 | 23.30-CL-23901854 | 31-01-2023 | UE5.N/A | N/A | **Build lost** | None |
+| 23.30 | 23.30-CL-23986860 | 31-01-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 23.40 | 23.40-CL-24087481 | 14-02-2023 | UE5.N/A | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/23.40.zip) / [📥 Download 2](https://fn-builds.repressoh.it/23.40.zip) | None |
+| 23.50 | 23.50-CL-24376996 | 28-02-2023 | UE5.N/A | N/A | **Build lost** | None |
+| 23.50 | 23.50-CL-24441668 | 28-02-2023 | UE5.N/A | `.zip` / `.rar` | [📥 Download](https://cdn.fortnitearchive.com/23.50.zip) / [📥 Download 2](https://titanac.xyz/23.50.rar) / [📥 Download 3](https://r2.kovryn.xyz/23.50.rar) | None |
+
+---
 
 #### 🏰 Season 2
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 24.00   | 24.00-CL-24554913  | 10-03-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 24.01   | 24.01-CL-24672685  | 20-03-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 24.10   | 24.10-CL-24903530  | 29-03-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 24.20   | 24.20-CL-25156858  | 11-04-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 24.30   | 24.30-CL-25347382  | 02-05-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 24.40   | 24.40-CL-25521145  | 17-05-2023   | UE5.N/A          | `.zip`         | [📥 Download](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip) | None         |
+| 24.00 | 24.00-CL-24554913 | 10-03-2023 | UE5.N/A | `.zip` | [📥 Download](https://fn-builds.repressoh.it/24.00-CL-24554913.zip) / [📥 Download 2](https://gofile.io/d/GOSBx4) | None |
+| 24.01 | 24.01-CL-24672685 | 20-03-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.01 | 24.01-CL-24757023 | 20-03-2023 | UE5.N/A | N/A | **Build lost** | None |
+| 24.10 | 24.10-CL-24770548 | 29-03-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.10 | 24.10-CL-24903530 | 29-03-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.20 | 24.20-CL-24939793 | 11-04-2023 | UE5.N/A | `.rar` / `.zip` | [📥 Download](https://fn-builds.repressoh.it/24.20-CL-24939793.rar) / [📥 Download 2](https://r2.ploosh.dev/24.20.zip) / [📥 Download 3](https://r2.kovryn.xyz/24.20.zip) | None |
+| 24.20 | 24.20-CL-25019967 | 11-04-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.20 | 24.20-CL-25058254 | 11-04-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.20 | 24.20-CL-25156858 | 11-04-2023 | UE5.N/A | `.zip` | [📥 Download](https://fn-builds.repressoh.it/24.20-CL-25156858.zip) / [📥 Download 2](https://gofile.io/d/cw0eee) | None |
+| 24.30 | 24.30-CL-25210886 | 02-05-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.30 | 24.30-CL-25347382 | 02-05-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.40 | 24.40-CL-25420516 | 17-05-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 24.40 | 24.40-CL-25521145 | 17-05-2023 | UE5.N/A | `.zip` | [📥 Download](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip) | None |
+| 24.40 | 24.40-CL-25595478 | 17-05-2023 | UE5.N/A | `.zip` | [📥 Download](https://fn-builds.repressoh.it/24.40-CL-25595478.zip) / [📥 Download 2](https://gofile.io/d/cw0eee) | None |
+
+---
 
 #### 🏎️ Season 3
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 25.00   | 25.00-CL-25909622  | 09-06-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 25.10   | 25.10-CL-26000959  | 20-06-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 25.11   | 25.11-CL-26171015  | 04-07-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 25.20   | 25.20-CL-26474516  | 26-07-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 25.30   | 25.30-CL-26867995  | 08-08-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 25.00 | 25.00-CL-25784668 | 09-06-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 25.00 | 25.00-CL-25909622 | 09-06-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 25.10 | 25.10-CL-26000959 | 20-06-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 25.11 | 25.11-CL-26171015 | 04-07-2023 | UE5.N/A | `.zip` | [📥 Download](https://r2.ploosh.dev/25.11.zip) | None |
+| 25.20 | 25.20-CL-26474516 | 26-07-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 25.20 | 25.20-CL-26629111 | 26-07-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 25.30 | 25.30-CL-26867995 | 08-08-2023 | UE5.N/A | N/A | **Link not available** | None |
+
+---
 
 #### 🧛 Season 4
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 26.00   | 26.00-CL-27233190  | 25-08-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 26.10   | 26.10-CL-27681420  | 12-09-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 26.20   | 26.20-CL-28096793  | 26-09-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 26.30   | 26.30-CL-28688692  | 03-10-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 26.00 | 26.00-CL-27233190 | 25-08-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 26.00 | 26.00-CL-27424790 | 25-08-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 26.10 | 26.10-CL-27681420 | 12-09-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 26.20 | 26.20-CL-28096793 | 26-09-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 26.30 | 26.30-CL-28509302 | 03-10-2023 | UE5.N/A | `.zip` | [📥 Download](https://r2.ploosh.dev/26.30.zip) / [📥 Download 2](https://fn-builds.repressoh.it/26.30-CL-28509302.zip) | None |
+| 26.30 | 26.30-CL-28688692 | 03-10-2023 | UE5.N/A | `.zip` | [📥 Download](http://r2.ploosh.dev/26.30-CL-28688692.zip) / [📥 Download 2](https://fn-builds.repressoh.it/26.30-CL-28688692.zip) | None |
 
 ---
 
 ## 📙 Chapter 1 OG
 
-#### 🎯 Season
+#### 🎯 Season 5
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 27.00   | 27.00-CL-29072304  | 03-11-2023   | UE5.0            | `N/A`          | **Link not available** | None         |
-| 27.10   | 27.10-CL-29552510  | 16-11-2023   | UE5.0            | `N/A`          | **Link not available** | None         |
-| 27.11   | 27.11-CL-29739262  | 23-11-2023   | UE5.0            | `N/A`          | **Link not available**      |
-| N/A     |
+| 27.00 | 27.00-CL-29072304 | 03-11-2023 | UE5.0 | `.zip` | [📥 Download](https://fn-builds.repressoh.it/27.00-CL-29072304.zip) | None |
+| 27.10 | 27.10-CL-29552510 | 16-11-2023 | UE5.0 | `.zip` | [📥 Download](https://fn-builds.repressoh.it/27.10-CL-29552510.zip) | None |
+| 27.11 | 27.11-CL-29739262 | 23-11-2023 | UE5.0 | `.7z` | [📥 Download](https://fn-builds.repressoh.it/27.11-CL-29739262.7z) / [📥 Download 2](https://gofile.io/d/MfJHqg) | None |
 
 ---
 
 ## 📔 Chapter 5
 
-#### 🏛️ Season 1
-| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
-|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 28.00   | 28.00-CL-29915848  | 03-12-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.01   | 28.01-CL-30106568  | 06-12-2023   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.01.01 | 28.01.01-CL-30313795 | N/A          | UE5.N/A          | `N/A`          | **Link not available**  | None         |
-| 28.10   | 28.10-CL-30676362  | 23-01-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.20   | 28.20-CL-31286935  | 09-02-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 28.30   | 28.30-CL-31511038  | 27-02-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+---
 
-#### 🏴‍☠️ Season 2
+#### 🌍 Season 1
+
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 29.00   | 29.00-CL-32116959  | 08-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.01   | 29.01-CL-32291970  | 19-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.10   | 29.10-CL-32391220  | 26-03-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.20   | 29.20-CL-32716692  | 09-04-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.30   | 29.30-CL-32982357  | 23-04-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 29.40   | 29.40-CL-33629566  | 03-05-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
+| 28.00 | 28.00-CL-29915848 | 03-12-2023 | UE5.N/A | `.7z` | [📥 Download](https://fn-builds.repressoh.it/28.00-CL-29915848.7z) / [📥 Download 2](https://gofile.io/d/uDTffQ) | None |
+| 28.01 | 28.01-CL-30106568 | 06-12-2023 | UE5.N/A | N/A | **Link not available** | None |
+| 28.01.01 | 28.01.01-CL-30313795 | N/A | N/A | N/A | **Link not available** | None |
+| 28.10 | 28.10-CL-30676362 | 23-01-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 28.10 | 28.10-CL-30835064 | 23-01-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 28.20 | 28.20-CL-31165234 | 09-02-2024 | UE5.N/A | `.zip` | [📥 Download](https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip) | None |
+| 28.20 | 28.20-CL-31286935 | 09-02-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 28.30 | 28.30-CL-31511038 | 27-02-2024 | UE5.N/A | `.7z` | [📥 Download](https://gofile.io/d/pIYSae) / [📥 Download 2](https://fn-builds.repressoh.it/28.30-CL-31511038.7z) | None |
+
+---
+
+#### 🏛️ Season 2
+
+
+| Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
+|---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
+| 29.00 | 29.00-CL-31978752 | 08-03-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.00 | 29.00-CL-32116959 | 08-03-2024 | UE5.N/A | `.7z` | [📥 Download](https://fn-builds.repressoh.it/29.00-CL-32116959.7z) / [📥 Download 2](https://gofile.io/d/cw0eee) | None |
+| 29.01 | 29.01-CL-32291970 | 19-03-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.10 | 29.10-CL-32391220 | 26-03-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.10 | 29.10-CL-32567225 | 26-03-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.20 | 29.20-CL-32716692 | 09-04-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.30 | 29.30-CL-32982357 | 23-04-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.40 | 29.40-CL-33291686 | 03-05-2024 | UE5.N/A | N/A | **Build lost** | None |
+| 29.40 | 29.40-CL-33502036 | 03-05-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 29.40 | 29.40-CL-33629566 | 03-05-2024 | UE5.N/A | N/A | **Link not available** | None |
+
+---
 
 #### 🏖️ Season 3
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 30.00   | 30.00-CL-33962396  | 24-05-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 30.10   | 30.10-CL-34261954  | 13-06-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 30.20   | 30.20-CL-34597766  | 22-06-2024   | UE5.N/A          | `N/A`          | **Link not available**  | None         |
-| 30.30   | 30.30-CL-34891016  | 23-07-2024   | UE5.N/A          | `N/A`          | **Link not available**  | None         |
-| 30.40   | 30.40-CL-N/A       | 03-08-2024   | UE5.N/A          | `N/A`          | **Soon**                                              | None         |
+| 30.00 | 30.00-CL-33760522 | 24-05-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.00 | 30.00-CL-33962396 | 24-05-2024 | UE5.N/A | `.rar` | [📥 Download](https://fn-builds.repressoh.it/30.00-CL-33962396.rar) / [📥 Download 2](https://gofile.io/d/ZjRYts) | None |
+| 30.10 | 30.10-CL-34184790 | 13-06-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.10 | 30.10-CL-34261954 | 13-06-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.10 | 30.10-CL-34399867 | 13-06-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.20 | 30.20-CL-34488544 | 22-06-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.20 | 30.20-CL-34597766 | 22-06-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.30 | 30.30-CL-34891016 | 23-07-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 30.40 | 30.40-CL-35235494 | 03-08-2024 | UE5.N/A | N/A | **Link not available** | None |
+
+---
 
 #### 🦸‍♀️ Season 4
+
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 31.00   | 31.00-CL-35447195  | 16-08-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 31.10   | 31.10-CL-35815136  | 04-09-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 31.20   | 31.20-CL-N/A       | 17-09-2024   | UE5.N/A          | `N/A`          | **Soon**                                              | None         |
-| 31.30   | 31.30-CL-36600465  | 01-10-2024   | UE5.N/A          | `N/A`          | **Link not available** | None         |
-| 31.40   | 31.40-CL-N/A       | 12-10-2024   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
-| 31.41   | 31.41-CL-N/A       | 01-11-2024   | UE5.N/A          | `N/A`          | **Link not available**                                | None         |
+| 31.00 | 31.00-CL-35447195 | 16-08-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 31.10 | 31.10-CL-35815136 | 04-09-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 31.20 | 31.20-CL-36253989 | 17-09-2024 | UE5.N/A | N/A | [📥 Download](https://drive.google.com/file/d/1zzgcJTe4EtMBFB5yP-M5uvm88SJo6HkK/view) | None |
+| 31.20 | 31.20-CL-36348034 | 17-09-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 31.30 | 31.30-CL-36600465 | 01-10-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 31.40 | 31.40-CL-36874825 | 12-10-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 31.40 | 31.40-CL-37076506 | 12-10-2024 | UE5.N/A | N/A | **Link not available** | None |
+| 31.41 | 31.41-CL-37324991 | 01-11-2024 | UE5.N/A | N/A | [📥 Download](https://gofile.io/d/5KnfUv) / [📥 Download 2](https://buzzheavier.com/25mkyjh092el) | None |
 
 ---
 
 ## 📓 Chapter 2 REMIX
 
-#### 🎵 Season
+#### 🎵 Season 5
+
+
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 32.00   | 32.00-CL-37505882  | 02-11-2024   | UE5.0            | `N/A`          | **Link not available**  | None         |
-| 32.10   | 32.10-CL-N/A       | 14-11-2024   | UE5.0            | `N/A`          | **Link not available**                                | None         |
-| 32.11   | 32.11-CL-38202817  | 21-11-2024   | UE5.0            | `N/A`          | **Link not available**  | None         |
+| 32.00 | 32.00-CL-37505882 | 02-11-2024 | UE5.0 | N/A | **Link not available** | None |
+| 32.00 | 32.00-CL-37770125 | 02-11-2024 | UE5.0 | N/A | **Link not available** | None |
+| 32.10 | 32.10-CL-37958378 | 14-11-2024 | UE5.0 | N/A | **Link not available** | None |
+| 32.11 | 32.11-CL-38202817 | 21-11-2024 | UE5.0 | N/A | [📥 Download](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) | None |
+| 32.11 | 32.11-CL-38371047 | 21-11-2024 | UE5.0 | `.rar` | [📥 Download](https://fn-builds.repressoh.it/32.11-CL-38371047.rar) / [📥 Download 2](https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1) | None |
 
 ---
 
