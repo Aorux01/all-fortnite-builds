@@ -46,7 +46,7 @@ A big thank you to everyone who hosted and archived these releases:
 #### 🚀 Pre-BattleRoyale
 | Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
 |---------|--------------------------|--------------|------------------|----------------|----------------------------------------------------------------------------------------------------------------|-------------|
-| N/A     | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip) | None        |                               | N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | **ERROR**
+| N/A     | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/OT0.6.5.zip) / [📥 Download 2](https://fn-builds.repressoh.it/0nlineTest0.6.5.zip) | None        |                               | N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | **ERROR**
 | N/A     | 1.2-CL-3541083 | None        |         | 21-07-17     | UE4.16-3541083   | `.7z`          | [📥 Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) | None        |
 
 #### 🌟 Season 0 & 1
