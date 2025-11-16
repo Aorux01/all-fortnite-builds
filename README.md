@@ -232,8 +232,8 @@ A big thank you to everyone who hosted and archived these releases:
 | 10.20 | 10.20-CL-8456527 | 27-08-2019 | UE4.23 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/10.20.zip) / [📥 Download 2](https://builds.rebootfn.org/10.20.zip) / [📥 Download 3](https://fn-builds.repressoh.it/10.20.zip) | None |
 | 10.30 | 10.30-CL-8569414 | 12-09-2019 | UE4.23 | `.rar` | [📥 Download](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar) / [📥 Download 2](https://fn-builds.repressoh.it/10.30-CL-8569414.rar) | None |
 | 10.31 | 10.31-CL-8723043 | 18-09-2019 | UE4.23 | `.zip` | [📥 Download](https://cdn.fortnitearchive.com/10.31.zip) / [📥 Download 2](https://builds.rebootfn.org/10.31.zip) / [📥 Download 3](https://fn-builds.repressoh.it/10.31.zip) | None |
-| 10.40 | 10.40-CL-8970213 | 25-09-2019 | UE4.N/A | `N/A` | **Build lost** | None |
-| 10.40 | 10.40-CL-9302865 | 25-09-2019 | UE4.N/A | `N/A` | **Build lost** | None |
+| 10.40 | 10.40-CL-8970213 | 25-09-2019 | UE4.N/A | `N/A` | **Build lost** | 🔚 The End |
+| 10.40 | 10.40-CL-9302865 | 25-09-2019 | UE4.N/A | `N/A` | **Build lost** | 🔚 The End |
 | 10.40 | 10.40-CL-9380822 | 25-09-2019 | UE4.23 | `.rar` | [📥 Download](https://cdn.fortnitearchive.com/10.40.rar) / [📥 Download 2](https://fn-builds.repressoh.it/10.40-CL-9380822.rar) / [📥 Download 3](https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view) | 🔚 The End |
 
 ---
@@ -244,17 +244,25 @@ A big thank you to everyone who hosted and archived these releases:
 
 | Version | Build Version      | Release Date | Engine Version   | Archive Format | Download Links                                        | Event        |
 |---------|--------------------|--------------|------------------|----------------|-------------------------------------------------------|--------------|
-| 11.00   | 11.00-CL-9562734   | 15-10-2019   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z)  | None         |
-| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/11.00.zip) / [📥 Download 2](https://galaxiafn.co.uk/11.00.zip)  | None         |
-| 11.01   | 11.01-CL-9728272   | 29-10-2019   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z)                                | None         |
-| 11.10   | 11.10-CL-9901083   | 13-11-2019   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z)                                | None         |
-| 11.11   | 11.11-CL-10082788  | 20-11-2019   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.11-CL-10082788.7z)                                | None         |
-| 11.20   | 11.20-CL-N/A       | 23-12-2019   | UE4.24           | `N/A`          | **Link not available** | None         |
+| 11.00   | 11.00-CL-9562734   | 15-10-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.00-CL-9562734.7z) / [📥 Download 2](https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z) | None         |
+| 11.00   | 11.00-CL-9603448   | 15-10-2019   | UE4.24           | `.zip`         | [📥 Download](https://cdn.fortnitearchive.com/11.00.zip) | None         |
+| 11.01   | 11.01-CL-9728272   | 29-10-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.01-CL-97282720.7z)                                | None         |
+| 11.10   | 11.10-CL-9844520   | 13-11-2019   | UE4.N/A           | `N/A`          | **Link not available**                                | None         |            
+| 11.10   | 11.10-CL-9901083   | 13-11-2019   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z) / [📥 Download 2](https://fn-builds.repressoh.it/11.10-CL-9901083.7z) | None         |
+| 11.11   | 11.11-CL-10082788  | 20-11-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.11-CL-10082788.7z)                                | None         |
+| 11.20   | 11.20-CL-10328358  | 23-12-2019   | UE4.24           | `N/A`          | **Build lost** | None         |
+| 11.20   | 11.20-CL-10297577  | 23-12-2019   | UE4.24           | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/11.20-CL-10297577.7z) | None         |
 | 11.21   | 11.21-CL-10481509  | N/A          | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z)    | None         |
-| 11.30   | 11.30-CL-N/A       | 15-01-2020   | UE4.24           | `N/A`          | **Link not available**                                | ⭐ Star Wars         |
+| 11.30   | 11.30-CL-10639804  | 15-01-2020   | UE4.24           | `N/A`          | **Build lost**                                | ⭐ Star Wars         |
+| 11.30   | 11.30-CL-10708866  | 15-01-2020   | UE4.24           | `.7z`          | [📥 Download](https://cdn.fortnitearchive.com/11.30.7z) / [📥 Download 2](https://fn-builds.repressoh.it/11.30.7z) | ⭐ Star Wars         |
+| 11.31   | 11.31-CL-10760473  | N/A          | UE4.24           | `N/A`         | **Build lost**    | None         |
+| 11.31   | 11.31-CL-10795579  | N/A          | UE4.24           | `N/A`         | **Build lost**    | None         |
 | 11.31   | 11.31-CL-N/A       | N/A          | UE4.24           | `.rar`         | [📥 Download](https://cdn.fortnitearchive.com/11.31.rar)    | None         |
+| 11.40   | 11.40-CL-10951104  | 15-01-2020   | UE4.24           | `N/A`         | **Build lost**    | None         |
 | 11.40   | 11.40-CL-11039906  | 15-01-2020   | UE4.24           | `.7z`          | [📥 Download](https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z)                                | None         |
-| 11.50   | 11.50-CL-N/A       | 05-02-2020   | UE4.24           | `N/A`          | **Link not available**                                | None         |
+| 11.40   | 11.40-CL-11109625  | 15-01-2020   | UE4.24           | `N/A`         | **Build lost**    | None         |
+| 11.50   | 11.50-CL-N/A       | 05-02-2020   | UE4.24           | `N/A`          | **Build lost**                                | None         |
+| 11.50   | 11.50-CL-11265652  | 05-02-2020   | UE4.24           | `N/A`          | [📥 Download](https://fn-builds.repressoh.it/11.50.7z)                                | None         |
 
 #### 🕵️ Season 2
 
