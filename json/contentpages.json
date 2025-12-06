@@ -40,7 +40,7 @@
       "sizeBytes": 12000000000,
       "downloadSources": [
         {
-          "url": "https://example.com/builds/1.7.2.zip",
+          "url": "https://builds.rebootfn.org/1.7.2.zip",
           "priority": 1,
           "type": "direct"
         }
