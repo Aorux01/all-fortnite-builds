@@ -45,10 +45,10 @@ A big thank you to everyone who hosted and archived these releases:
 #### 🚀 Pre-BattleRoyale
 | Version | Build Version            | Release Date | Engine Version   | Archive Format | Download Links                                                                                                 | Event       |
 |---------|--------------------------|--------------|------------------|----------------|----------------------------------------------------------------------------------------------------------------|-------------|
-| 4.12.0  | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip) / [📥 Download 2](https://fn-builds.repressoh.it/0nlineTest0.6.5.zip) | None        |
+| 4.12.0  | OT6.5-CL-2870186         | 28-02-16     | UE4.12-2870186   | `.zip`         | [📥 Download](https://public.simplyblk.xyz/OT0.6.5.zip) | None        |
 | 4.16.0  | OT11.XX-CL-3471515       | 20-07-17     | UE4.16-3532353   | `.zip`          | [📥 Download](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip) / [📥 Download 2](https://archive.org/details/fortnite-ot-11-pc) | None        |
-| N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | [📥 Download](https://fn-builds.repressoh.it/%2B%2BFortnite%2BCert-CL-3532353.7z) / [📥 Download 2](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) / [📥 Download 3](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z) | None        |
-| N/A     | 1.2-CL-3541083 | 21-07-17     | UE4.16-3541083   | `.7z`/`.zip`/`.rar` | [📥 Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) / [📥 Download 2](https://fn-builds.repressoh.it/1.2.zip) / [📥 Download 3](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) | None        |
+| N/A     | Cert-CL-3532353          | 20-07-17     | UE4.16-3532353   | `.7z`          | [📥 Download ](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) / [📥 Download 2](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z) | None        |
+| N/A     | 1.2-CL-3541083 | 21-07-17     | UE4.16-3541083   | `.7z`/`.zip`/`.rar` | [📥 Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) / [📥 Download 2](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) | None        |
 
 ---
 
