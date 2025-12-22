@@ -633,7 +633,7 @@ A big thank you to everyone who hosted and archived these releases:
 | 32.00 | 32.00-CL-37770125 | 02-11-2024 | UE5.0 | N/A | **Link not available** | None |
 | 32.10 | 32.10-CL-37958378 | 14-11-2024 | UE5.0 | N/A | **Link not available** | None |
 | 32.11 | 32.11-CL-38202817 | 21-11-2024 | UE5.0 | N/A | [📥 Download](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) | None |
-| 32.11 | 32.11-CL-38371047 | 21-11-2024 | UE5.0 | `.rar` | [📥 Download](https://fn-builds.repressoh.it/32.11-CL-38371047.rar) / [📥 Download 2](https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1) | None |
+| 32.11 | 32.11-CL-38371047 | 21-11-2024 | UE5.0 | `.rar` | [📥 Download](https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1) | None |
 
 ---
 
