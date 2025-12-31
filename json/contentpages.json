@@ -17,6 +17,15 @@
   "globalNews": [
     {
       "id": "news-launch",
+      "title": "Vanta Launcher 1.0.0!",
+      "summary": "The official 1.0.0 release",
+      "imagePath": "assets/images/news/launch.png",
+      "linkUrl": "",
+      "publishedAt": "2025-12-02T12:00:00Z",
+      "category": "announcement"
+    },
+    {
+      "id": "news-launch",
       "title": "Vanta Launcher Released!",
       "summary": "The official release of Vanta Launcher is here. Enjoy!",
       "imagePath": "assets/images/news/launch.png",
