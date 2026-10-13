@@ -642,10 +642,10 @@ A big thank you to everyone who hosted and archived these releases:
 # Additional Information
 
 ## Important Notes
-- If you want to contribute additional builds, please contact me at [@aorux01](#) on Discord. 💬
-- All builds available are Windows versions. For other platforms, check specialized archives. 🪟
-- Some links may require bypassing download limits - check online tutorials for solutions. 🔓
-- Always verify file integrity before running any builds. ✅
+- If you want to contribute additional builds, please contact me at [@aorux01](#) on Discord.
+- All builds available are Windows versions. For other platforms, check specialized archives.
+- Some links may require bypassing download limits - check online tutorials for solutions.
+- Always verify file integrity before running any builds.
 
 ## Platform-Specific Archives
 
