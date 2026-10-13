@@ -452,7 +452,7 @@ A big thank you to everyone who hosted and archived these releases:
 | 21.30 | 21.30-CL-21102315 | 18-07-2022 | UE5.1 | N/A | **Build lost** | None |
 | 21.30 | 21.30-CL-21155462 | 18-07-2022 | UE5.1 | `.7z` | **Link not available** | None | None |
 | 21.40 | 21.40-CL-21348157 | 16-08-2022 | UE5.1 | N/A | **Build lost** | None |
-| 21.40 | 21.40-CL-21407327 | 16-08-2022 | UE5.1 | `.7z` | **Link not available** | None | None |
+| 21.40 | 21.40-CL-21407327 | 16-08-2022 | UE5.1 | `.7z` | [📥 Download](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) | None | None |
 | 21.50 | 21.50-CL-21657658 | 30-08-2022 | UE5.1 | `.zip` | [📥 Download](https://public.simplyblk.xyz/21.50.zip) | None |
 | 21.51 | 21.51-CL-21735703 | 07-09-2022 | UE5.1 | `.7z` | [📥 Download](https://public.simplyblk.xyz/21.51.7z) | None |
 
