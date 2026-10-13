@@ -660,17 +660,17 @@ For builds on alternative platforms, visit these specialized archives:
 
 ## Tips & Troubleshooting
 
-- **Google Drive "Too many downloads" error?** Try the [bypass method](https://www.youtube.com/watch?v=_xW9w1d2LEY) 🔄
-- **Links not working?** Some require multiple attempts or different browsers 🌐
-- **Need manifests?** Check [Legendary tool](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [FN Releases](https://github.com/polynite/fn-releases) 📦
+- **Google Drive "Too many downloads" error?** Try the [bypass method](https://www.youtube.com/watch?v=_xW9w1d2LEY)
+- **Links not working?** Some require multiple attempts or different browsers
+- **Need manifests?** Check [Legendary tool](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [FN Releases](https://github.com/polynite/fn-releases)
 
 ## Contributing
 
-Have a lost or rare build? Upload it and send the link! Every contribution helps preserve Fortnite's history. 📚
+Have a lost or rare build? Upload it and send the link! Every contribution helps preserve Fortnite's history.
 
 ## Disclaimer
 
-This repository is for educational and archival purposes only. All builds are the property of Epic Games. Use at your own discretion and responsibility. 🎯
+This repository is for educational and archival purposes only. All builds are the property of Epic Games. Use at your own discretion and responsibility.
 
 ---
 
