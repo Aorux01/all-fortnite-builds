@@ -1,5 +1,5 @@
-# 🎮 Fortnite Builds Archive
-📋 Complete list and download links for all Fortnite builds available online.
+# Fortnite Builds Archive
+Complete list and download links for all Fortnite builds available online.
 
 Welcome to this repository! Here's a collection of Fortnite builds categorized by chapter, season, version, etc.
 
@@ -9,26 +9,26 @@ If you would like to **suggest builds**, please feel free to contact me!
 
 ---
 
-# 📑 Table of Contents
-- [🎯 Objective](#objective)
-- [🙏 Credits](#credits)
+# Table of Contents
+- [Objective](#objective)
+- [Credits](#credits)
 - [📚 Chapter Archives](#chapter-archives)
 - [📖 Chapter 1](#chapter-1)
 - [📗 Chapter 2](#chapter-2)
 - [📘 Chapter 3](#chapter-3)
 - [📕 Chapter 4](#chapter-4)
 - [📔 Chapter 5](#chapter-5)
-- [ℹ️ Additional Information](#additional-information)
+- [Additional Information](#additional-information)
 
 ---
 
-# 🎯 Objective
+# Objective
 
 It's a centralized archive for downloading versions from hosted files.
 
 ---
 
-# 🙏 Credits
+# Credits
 
 A big thank you to everyone who hosted and archived these releases:
 - [n6617x](https://github.com/n6617x) 💾
@@ -639,15 +639,15 @@ A big thank you to everyone who hosted and archived these releases:
 
 ---
 
-# ℹ️ Additional Information
+# Additional Information
 
-## 📝 Important Notes
+## Important Notes
 - If you want to contribute additional builds, please contact me at [@aorux01](#) on Discord. 💬
 - All builds available are Windows versions. For other platforms, check specialized archives. 🪟
 - Some links may require bypassing download limits - check online tutorials for solutions. 🔓
 - Always verify file integrity before running any builds. ✅
 
-## 🔗 Platform-Specific Archives
+## Platform-Specific Archives
 
 For builds on alternative platforms, visit these specialized archives:
 
@@ -658,17 +658,17 @@ For builds on alternative platforms, visit these specialized archives:
 - 🎮 [PS4 Builds Archive](https://orbispatches.com/CUSA07022)
 - 🎮 [Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
 
-## 💡 Tips & Troubleshooting
+## Tips & Troubleshooting
 
 - **Google Drive "Too many downloads" error?** Try the [bypass method](https://www.youtube.com/watch?v=_xW9w1d2LEY) 🔄
 - **Links not working?** Some require multiple attempts or different browsers 🌐
 - **Need manifests?** Check [Legendary tool](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [FN Releases](https://github.com/polynite/fn-releases) 📦
 
-## 🤝 Contributing
+## Contributing
 
 Have a lost or rare build? Upload it and send the link! Every contribution helps preserve Fortnite's history. 📚
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository is for educational and archival purposes only. All builds are the property of Epic Games. Use at your own discretion and responsibility. 🎯
 
@@ -676,4 +676,4 @@ This repository is for educational and archival purposes only. All builds are th
 
 **🌟 Star this repository to support the project!**
 
-*Last updated: 22th December 2025* 📅       
+*Last updated: 14th October 2026* 📅       
