@@ -836,33 +836,54 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 ---
 
 ## 🎪 Playable events
-
-Builds that allow replaying a live event. Sizes are approximate. Launchers: [Reboot](https://discord.gg/rebootmp), Rift and Carbon.
-
-| Version | Event | Size | How to play |
-|---|---|---|---|
-| 3.6 | 🌠 It's raining meteors | 16.2 GB | Rift |
-| 4.5 | 🚀 Blast Off | 23.0 GB | Rift (memory leak on 4.5) |
-| 5.30 | 🟣 Cube Spawning | 26.2 GB | No known launcher yet |
-| 5.41 | 🟣 Cube Sinking | 26.7 GB | Rift |
-| 6.21 | 🦋 Butterfly | 25.1 GB | Rift, Carbon, Reboot (bugged) |
-| 7.20 | 👑 Ice King | 31.7 GB | Rift, Carbon |
-| 7.30 | 🎵 Marshmello | 40.4 GB | Rift, Carbon, Reboot (music missing) |
-| 8.51 | 🗳️ Unvaulting | 47.0 GB | Rift, Carbon, Reboot |
-| 9.40 / 9.41 | ⚔️ The Final Showdown | 55.1 GB | Rift, Carbon, Reboot |
-| 10.40 | 🔚 The End | 60.8 GB | Rift, Carbon, Reboot (Reboot recommended) |
-| 11.30 | ⭐ Star Wars | 74.2 GB | Rift, Carbon, Reboot |
-| 12.41 | 🎤 Travis Scott | 83.3 GB | Rift, Carbon, Reboot |
-| 12.61 | 🔧 The Device | 85.1 GB | Carbon, Rift |
-| 14.60 | 🌌 The Devourer of Worlds | 33.34 GB | Carbon, Rift |
-| 16.50 | 🌀 Zero Crisis | 38.0 GB | Carbon |
-| 17.30 | 🎵 Rift Tour | 41.3 GB | Carbon (bugged) |
-| 17.50 | ⚡ Operation: Sky Fire | 41.7 GB | Carbon |
-| 18.40 | 🔚 Chapter 2 Finale | 43.1 GB | Carbon |
-| 20.40 | 💥 Collision / Collider Pulse | 37.9 GB | Carbon |
-| 22.40 | 🔚 Fracture – Chapter 3 Finale | 35.2 GB | Carbon (bugged) |
-| 27.11 | 🌠 The Big Bang | 28 GB | Carbon |
-
+ 
+Events that can be replayed, with the launchers they work on ([Reboot](https://discord.gg/rebootmp), Rift, Carbon). Sizes are approximate.
+ 
+✅ works · ⚠️ works but bugged · — not listed
+ 
+| Version | Event | Size | Carbon | Rift | Reboot | Notes |
+|---|---|---|---|---|---|---|
+| 3.6 | S4 Lead-Up (Comet) / It's raining meteors | 16,2 GB | ✅ | ✅ | — |  |
+| 4.5 | Blast Off | 23,0 GB | ✅ | ✅ | — | Memory leak on Rift |
+| 5.30 | Cube Spawning / Movement | 26,2 GB | ✅ | — | — |  |
+| 5.40 / 5.41 | Cube Sinking / Movement | 23,2 / 26,7 GB | ✅ | ✅ | — |  |
+| 6.00 | Cube Island Movement | 29,8 GB | ✅ | — | — |  |
+| 6.01 | Cube Island Movement | 29,9 GB | ✅ | — | — |  |
+| 6.02 | Cube Island Movement | 30,2 GB | ✅ | — | — |  |
+| 6.10 | Cube Island Movement | 29,3 GB | ✅ | — | — |  |
+| 6.20 | Cube Island Leadup | 31,1 GB | ✅ | — | — |  |
+| 6.21 | Cube Island Leadup / Butterfly | 25,1 GB | ✅ | ⚠️ | ⚠️ | Bugged on Rift and Reboot |
+| 6.30 | Season 7 Lead-Up | 26,4 GB | ✅ | — | — |  |
+| 6.31 | Season 7 Lead-Up | 33,6 GB | ✅ | — | — |  |
+| 7.10 | New Years Event (2019) | 37,1 GB | ✅ | — | — |  |
+| 7.20 | Ice King | 31,7 GB | ✅ | ✅ | — |  |
+| 7.30 | Marshmello | 40,4 GB | ✅ | ✅ | ✅ | Music missing |
+| 7.40 | ERA Festival (Custom Event) / Heat Progression (Wailing Woods) | 40,6 GB | ✅ | — | — | Paks → Events on Carbon |
+| 8.40 | Unvaulting Lead-Up (Runes Part 1) | 46,0 GB | ✅ | — | — |  |
+| 8.50 | Unvaulting Lead-Up (Runes Part 2) | 47,0 GB | ✅ | — | — |  |
+| 8.51 | Unvaulting | 47,3 GB | ✅ | ✅ | ✅ |  |
+| 9.10 | Polar Peak Eye | 50,9 GB | ✅ | — | — |  |
+| 9.20 | Monster Spotting Event | 52,1 GB | ✅ | — | — |  |
+| 9.21 | Monster Spotting Event | 52 GB | ✅ | — | — |  |
+| 9.30 | Monster Spotting Event | 54,1 GB | ✅ | — | — |  |
+| 9.40 / 9.41 | The Final Showdown | 55,1 / 54,8 GB | ✅ | ✅ | ✅ |  |
+| 10.20 | Cube Island Movement | 58,0 GB | ✅ | — | — |  |
+| 10.30 | Cube Island Movement | 58,4 GB | ✅ | — | — |  |
+| 10.31 | Cube Island Movement | 58,9 GB | ✅ | — | — |  |
+| 10.40 | The End | 60,8 GB | ✅ | ✅ | ✅ | Reboot recommended |
+| 11.30 | Star Wars | 74,2 GB | ✅ | ✅ | ✅ |  |
+| 11.31 | New Years Event (2020) | 74,3 GB | ✅ | — | — |  |
+| 12.41 | Travis Scott | 83,3 GB | ✅ | ✅ | ✅ |  |
+| 12.61 | The Device | 85,1 GB | ✅ | ✅ | — |  |
+| 14.60 | The Devourer of Worlds | 33,34 GB | ✅ | ✅ | — |  |
+| 16.50 | Zero Crisis | 38,0 GB | ✅ | — | — |  |
+| 17.30 | Rift Tour | 41,3 GB | ⚠️ | — | — | Bugged |
+| 17.50 | Operation: Sky Fire | 41,7 GB | ✅ | — | — |  |
+| 18.40 | Chapter 2 Finale | 43,1 GB | ✅ | — | — |  |
+| 20.40 | Collision / Collider Pulse | 37,9 GB | ✅ | — | — |  |
+| 22.40 | Fracture - Chapter 3 Finale | 35,2 GB | ⚠️ | — | — | Bugged |
+| 27.11 | The Big Bang | 28 GB | ✅ | — | — |  |
+ 
 ---
 
 ## 📱 Other platforms
@@ -897,7 +918,7 @@ Have a lost or rare build? Upload it and send the link on Discord ([@aorux01](#)
 
 **Hosts & maintainers**
 
-- [Aorux](https://github.com/Aorux01) — repository owner, lots of builds on his CDN ([Fn-Archive-Builds](https://github.com/Aorux01/Fn-Archive-Builds))
+- [Me - FN-Archive](https://github.com/Aorux01)
 - [ByZNexus](https://github.com/ByZNexus) with [Jalen](https://github.com/jalenpatricio) — [Fortnite-Versions](https://github.com/ByZNexus/Fortnite-Versions) ([YouTube](https://www.youtube.com/@ByZNexu5))
 - [n6617x](https://github.com/n6617x)
 - [Llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive)
