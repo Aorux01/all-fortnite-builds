@@ -4,7 +4,7 @@
 
 **A centralized, season-by-season archive of every Fortnite build with a known download link.**
 
-![Builds](https://img.shields.io/badge/builds%20listed-418-blue) ![Downloadable](https://img.shields.io/badge/downloadable-272-brightgreen) ![Missing link](https://img.shields.io/badge/link%20needed-52-orange) ![Lost](https://img.shields.io/badge/lost-94-red)
+![Builds](https://img.shields.io/badge/builds%20listed-463-blue) ![Downloadable](https://img.shields.io/badge/downloadable-272-brightgreen) ![Missing link](https://img.shields.io/badge/link%20needed-70-orange) ![Lost](https://img.shields.io/badge/lost-121-red)
 
 [Quick start](#-quick-start) · [Browse builds](#-quick-navigation) · [Playable events](#-playable-events) · [Platforms](#-other-platforms) · [Contribute](#-contributing) · [Credits](#-credits)
 
@@ -38,49 +38,76 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 
 | Chapter | Seasons | Builds | Downloadable |
 |---|---|---|---|
-| [📖 Chapter 1](#-chapter-1) | 11 | 125 | 86 |
-| [📗 Chapter 2](#-chapter-2) | 8 | 117 | 68 |
+| [📖 Chapter 1](#-chapter-1) | 11 | 155 | 86 |
+| [📗 Chapter 2](#-chapter-2) | 8 | 118 | 68 |
 | [📘 Chapter 3](#-chapter-3) | 4 | 48 | 21 |
 | [📕 Chapter 4](#-chapter-4) | 4 | 37 | 29 |
 | [📙 Chapter 1 OG](#-chapter-1-og) | 1 | 3 | 3 |
 | [📔 Chapter 5](#-chapter-5) | 4 | 35 | 20 |
 | [📓 Chapter 2 REMIX](#-chapter-2-remix) | 1 | 5 | 5 |
-| [📒 Newer Builds (v33+)](#-newer-builds-v33) | 9 | 48 | 40 |
+| [📒 Newer Builds (v33+)](#-newer-builds-v33) | 10 | 60 | 40 |
+| [🧪 Other builds](#-other-builds) | 1 | 2 | 0 |
 
 ---
 
 ## 📖 Chapter 1
 
 <details>
-<summary><b>🚀 Pre-BattleRoyale</b> &nbsp;·&nbsp; v4.12.0 → v4.16.0 &nbsp;·&nbsp; ✅ 5/5 downloadable</summary>
+<summary><b>🚀 Pre-BattleRoyale</b> &nbsp;·&nbsp; v4.7.0 → v4.16.0 &nbsp;·&nbsp; 🔍 5/28 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 4.7.0 | `OT1-CL-2479600` | - | UE4.7-2479600 | - | ❌ Lost |  |
+| 4.8.0 | `OT3-CL-2604755` | - | UE4.8-2604755 | - | ❌ Lost |  |
+| 4.9.0 | `OT4-CL-2671876` | - | UE4.9-2671876 | - | ❌ Lost |  |
+| 4.9.0 | `OT5-CL-2682676` | - | UE4.9-2682676 | - | ❌ Lost |  |
+| 4.9.0 | `OT5.5-CL-2760281` | - | UE4.9-2760281 | - | ❌ Lost |  |
+| 4.11.0 | `OT6-CL-2801990` | - | UE4.11-2801990 | - | ❌ Lost |  |
 | 4.12.0 | `OT6.5-CL-2870186` | 2016-02-28 | UE4.12-2870186 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2FOT0.6.5.zip&token=v1.jhRG8emQ6-2Ff-1INU8rJvuCYxwxULtLhDbM1TVsGio) |  |
 | N/A | `OT10.?-CL-N/A` | 2017-02-16 | UE4.16-3470982 | - | [GoFile](https://gofile.io/d/DnSgff)<br>⚠️ Only usable on a jailbroken PS4 (does not work on emulators) |  |
+| 4.12.0 | `OT6.6-CL-2898795` | - | UE4.12-2898795 | - | ❌ Lost |  |
+| 4.12.0 | `OT6.7-CL-2919741` | - | UE4.12-2919741 | - | ❌ Lost |  |
+| 4.12.0 | `OT7-CL-3012530` | - | UE4.12-3012530 | - | ❌ Lost |  |
+| 4.13.0 | `OT8-CL-3062755` | - | UE4.13-3062755 | - | ❌ Lost |  |
+| 4.13.0 | `OT8.1-CL-3114236` | - | UE4.13-3114236 | - | ❌ Lost |  |
+| 4.13.0 | `OT8.2-CL-3151232` | - | UE4.13-3151232 | - | ❌ Lost |  |
+| 4.13.0 | `OT9-CL-3169630` | - | UE4.13-3169630 | - | ❌ Lost |  |
+| 4.14.0 | `OT10-CL-3234896` | - | UE4.14-3234896 | - | ❌ Lost |  |
+| 4.14.0 | `OT10.1-CL-3240987` | - | UE4.14-3240987 | - | ❌ Lost |  |
+| 4.16.0 (PS4) | `OT10-CL-3307419` | - | UE4.16-3307419 | - | 🔍 Link needed |  |
 | 4.16.0 | `OT11.XX-CL-3471515` | 2017-07-20 | UE4.16-3532353 | 6.17 GB | [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip) · [Archive.org](https://archive.org/details/fortnite-ot-11-pc) · [Dropbox (Xbox)](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) · [Dropbox 2 (PC extract)](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0) |  |
+| 4.16.0 (PS4) | `OT11-CL-3472679` | - | UE4.16-3472679 | - | 🔍 Link needed |  |
+| 4.16.0 | `OT11.0-CL-3472997` | - | UE4.16-3472997 | - | 🔍 Link needed |  |
+| 4.16.0 | `OT11.0.3-CL-3481474` | - | UE4.16-3481474 | - | ❌ Lost |  |
+| 4.16.0 | `OT11.0.3.1-CL-3481499` | - | UE4.16-3481499 | - | ❌ Lost |  |
+| 4.16.0 | `OT11.0.5-CL-3484806` | - | UE4.16-3484806 | - | ❌ Lost |  |
+| 4.16.0 | `OT11-CL-3502004` | - | UE4.16-3502004 | - | ❌ Lost |  |
+| 4.16.0 | `OT11-CL-3502071` | - | UE4.16-3502071 | - | ❌ Lost |  |
 | N/A | `Cert-CL-3532353` | 2017-07-20 | UE4.16-3532353 | 5.06 GB | [Google Drive](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) · [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z) · [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2FCert-CL-3532353.7z&token=v1.rJY15A4_I5CqSFIt8sT_I9xd9SrMcbRAKPgoJtWBEl0) · [Archive.org](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) |  |
 | N/A | `1.2-CL-3541083` | 2017-07-21 | UE4.16-3541083 | 5.06 - 5.73 GB | [Google Drive](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) · [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) · [Mega](https://mega.nz/file/9vdxhQqb#KQa_WEcVRdsBN0gwmQdaHpFDtq1k34xZVxX0uyzFVws) · [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F1.2.0.rar&token=v1.5zOL0kD-2YA6l0mgAjMI2siBRVWLgz3OzwucqKbgFng) |  |
 
 </details>
 
 <details>
-<summary><b>🌟 Season 0 & 1</b> &nbsp;·&nbsp; v1.7.2 → v1.10.0 &nbsp;·&nbsp; ✅ 7/7 downloadable</summary>
+<summary><b>🌟 Season 0 & 1</b> &nbsp;·&nbsp; v1.6.4 → v1.10.0 &nbsp;·&nbsp; 🔍 7/10 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 1.6.4 | `Release-Cert-CL-3668626` | - | - | - | ❌ Lost |  |
+| 1.7.0 | `Release-Cert-CL-3681159` | - | - | - | ❌ Lost |  |
 | 1.7.2 | `1.7.2-CL-3700114` | 2017-10-17 | UE4.16-3700114 | 7.50 GB | [Reboot](https://builds.rebootfn.org/1.7.2.zip) · [Fortforge](https://fortforge.co.uk/download/ca237bf5-9c75-4787-a227-7659cb63d59f/build) | 🎃 Fortnitemares |
 | 1.8.0 | `1.8-CL-3724489` | 2017-10-25 | UE4.16-3724489 | 6.58 GB | [Reboot](https://builds.rebootfn.org/1.8.rar) · [Fortforge](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build) · [Google Drive](https://drive.google.com/file/d/1ZhJjo-e3Rx_d8B5mJT26zpLGRbc7cD27/view?usp=sharing) | 🎃 Fortnitemares |
 | 1.8.1 | `1.8.1-CL-3729133` | 2017-11-02 | UE4.16-3729133 | - | [Reboot](https://builds.rebootfn.org/1.8.1.rar) · [Fortforge](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |  |
 | 1.8.2 | `1.8.2-CL-3741772` | 2017-11-08 | UE4.16-3741772 | 8.55 GB | [Reboot](https://builds.rebootfn.org/1.8.2.rar) · [Fortforge](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) |  |
 | 1.9.0 | `1.9-CL-3757339` | 2017-11-14 | UE4.16-3757339 | 8.62 GB | [Reboot](https://builds.rebootfn.org/1.9.rar) · [Fortforge](https://fortforge.co.uk/download/478aedbf-2ecf-4fa8-a20a-197f5eff2402/build) |  |
 | 1.9.1 | `1.9.1-CL-3775276` | 2017-11-29 | UE4.16-3775276 | 8.61 GB | [Reboot](https://builds.rebootfn.org/1.9.1.rar) · [Fortforge](https://fortforge.co.uk/download/e4e48be3-d265-46bd-a0fa-d720dfae630e/build) |  |
+| N/A | `Release-Cert-CL-3785438` | - | - | - | ❌ Lost |  |
 | 1.10.0 | `1.10-CL-3790078` | 2017-12-06 | UE4.19-3790078 | 8.24 GB | [Reboot](https://builds.rebootfn.org/1.10.rar) · [Fortforge](https://fortforge.co.uk/download/4339aebd-f902-4b5b-afa9-661f3736339d/build) | 🎄 Winterfest |
 
 </details>
 
 <details>
-<summary><b>⭐ Season 2</b> &nbsp;·&nbsp; v1.11 → v2.5.0 &nbsp;·&nbsp; 🔍 8/10 downloadable</summary>
+<summary><b>⭐ Season 2</b> &nbsp;·&nbsp; v1.11 → v2.5.0 &nbsp;·&nbsp; 🔍 8/11 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
@@ -88,23 +115,25 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 2.1.0 | `2.1.0-CL-3825894` | 2018-01-09 | UE4.19-3825894 | 8.34 GB | [Reboot](https://builds.rebootfn.org/2.1.0.zip) · [Fortforge](https://fortforge.co.uk/download/d23215f7-38e3-48e1-9c01-48ecede2d51d/build) |  |
 | 2.2.0 | `2.2.0-CL-3841827` | 2018-01-18 | UE4.19-3841827 | 7.96 GB | [Fortforge](https://fortforge.co.uk/download/2216a5ae-2a4c-4faf-830d-3e0cc106f01d/build) |  |
 | 2.3.0 | `2.3.0-CL-3847564` | 2018-01-25 | UE4.19-3847564 | 7.99 GB | [Reboot](https://builds.rebootfn.org/2.3.rar) · [Fortforge](https://fortforge.co.uk/download/c56ef236-f9aa-4f78-b51b-af89af5fe994/build) |  |
-| 2.3.2 | `2.3.0-CL-3847564` | 2018-01-25 | UE4.19-3847564 | - | ❌ Lost |  |
+| 2.3.2 | `2.3.2-CL-3856999` | 2018-01-25 | UE4.19 | - | ❌ Lost |  |
 | 2.4.0 | `2.4.0-CL-3858292` | 2018-02-01 | UE4.19-3858292 | 8.02 GB | [Reboot](https://builds.rebootfn.org/2.4.0.zip) · [Fortforge](https://fortforge.co.uk/download/eac06d57-f3ea-422f-8690-ad8d23899d66/build) |  |
 | 2.4.1 | `2.4.1-CL-3870737` | 2018-02-07 | UE4.19-3870737 | - | 🔍 Link needed |  |
 | 2.4.2 | `2.4.2-CL-3870737` | 2018-02-07 | UE4.19-3870737 | - | [Reboot](https://builds.rebootfn.org/2.4.2.zip) |  |
+| 2.4.X | `2.4.x-CL-3876086` | - | - | - | ❌ Lost |  |
 | 2.4.2 | `2.4.2-CL-3879410` | 2018-02-08 | UE4.19-3879408 | 8.03 GB | [Fortforge](https://fortforge.co.uk/download/55ad979f-397b-42bb-b8e9-a858bdf09e84/build) |  |
 | 2.5.0 | `2.5.0-CL-3889387` | 2018-02-13 | UE4.20-3889387 | - | [Reboot](https://builds.rebootfn.org/2.5.0.rar) · [Fortforge](https://fortforge.co.uk/download/8d8b6729-8f33-418d-8b4c-7c746945adee/build) |  |
 
 </details>
 
 <details>
-<summary><b>⚡ Season 3</b> &nbsp;·&nbsp; v3.0.0 → v3.6.0 &nbsp;·&nbsp; 🔍 9/13 downloadable</summary>
+<summary><b>⚡ Season 3</b> &nbsp;·&nbsp; v3.0.0 → v3.6.0 &nbsp;·&nbsp; 🔍 9/14 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
 | 3.0.0 | `3.0-CL-3901517` | 2018-02-21 | UE4.20-3901517 | 8.89 GB | [Reboot](https://builds.rebootfn.org/3.0.zip) · [Fortforge](https://fortforge.co.uk/download/d645f800-7826-488a-a7c2-6e4df6633c6b/build) |  |
 | 3.1.0 | `3.1-CL-3915963` | 2018-02-28 | UE4.20-3915963 | - | [Reboot](https://builds.rebootfn.org/3.1.rar) · [Fortforge](https://fortforge.co.uk/download/a41dac5e-474e-46d5-b903-755bf17f0104/build) |  |
 | 3.1.1 | `3.1-CL-3917250` | 2018-02-28 | UE4.20-3917250 | 8.91 - 9.22 GB | [Reboot](https://builds.rebootfn.org/3.1.1.zip) · [Google Drive](https://drive.google.com/file/d/16c1NDzWZc_zb9nQV4ICj1LM9XvBtAGDJ/view) · [Fortforge](https://fortforge.co.uk/download/640c2c18-b15a-48db-87ed-62d3254db535/build) |  |
+| 3.2.0 | `3.2-CL-3929794` | 2018-03-08 | UE4.20 | - | ❌ Lost |  |
 | 3.2.0 | `3.2-CL-3935073` | 2018-03-08 | UE4.20-3935073 | - | [Reboot](https://builds.rebootfn.org/3.2.zip) · [Fortforge](https://fortforge.co.uk/download/c3cc09c4-7b4d-4c5b-a89d-ac1d3b51f715/build) |  |
 | 3.3.0 | `3.3-CL-3942182` | 2018-03-15 | UE4.20-3942182 | - | [Reboot](https://builds.rebootfn.org/3.3.rar) · [Fortforge](https://fortforge.co.uk/download/b7d635e0-48b7-44e7-892f-9b864510c815/build) |  |
 | 3.3.0 | `3.3-CL-3948073` | 2018-03-22 | UE4.20 | - | ❌ Lost |  |
@@ -157,7 +186,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 </details>
 
 <details>
-<summary><b>🎃 Season 6</b> &nbsp;·&nbsp; v6.0.0 → v6.3.1 &nbsp;·&nbsp; 🔍 14/17 downloadable</summary>
+<summary><b>🎃 Season 6</b> &nbsp;·&nbsp; v6.0.0 → v6.3.0 &nbsp;·&nbsp; 🔍 14/18 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
@@ -178,6 +207,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 6.2.2 | `6.22-CL-4543176` | 2018-11-04 | UE4.21-4543176 | - | [Reboot](https://builds.rebootfn.org/6.22.rar) · [Fortforge](https://fortforge.co.uk/download/859d2bec-36bb-463f-8e7b-18735b917909/build) |  |
 | 6.3.0 | `6.30-CL-4573096` | 2018-11-13 | UE4.21-4573096 | 9.16 GB | [Reboot](https://builds.rebootfn.org/6.30.rar) · [Fortforge](https://fortforge.co.uk/download/ca6d0499-5bef-425d-898d-8a076719a66f/build) |  |
 | 6.3.1 | `6.31-CL-4573279` | 2018-11-27 | UE4.21-4573279 | 11.88 GB | [Reboot](https://builds.rebootfn.org/6.31.rar) · [Fortforge](https://fortforge.co.uk/download/55be7b8c-68d0-4297-8284-62203f77ca47/build) |  |
+| 6.3.0 | `6.30-CL-4579044` | 2018-11-13 | UE4.21 | - | 🔍 Link needed |  |
 
 </details>
 
@@ -187,7 +217,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
 | 7.0.0 | `7.00-CL-4629139` | 2018-12-06 | UE4.22-4629139 | 12.83 GB | [Reboot](https://builds.rebootfn.org/7.00.rar) · [Fortforge](https://fortforge.co.uk/download/69a30a27-2b2a-4413-b1b2-4448f5df6d84/build) | 🎄 Winterfest |
-| 7.0.1 | `7.01-CL-N/A` | 2018-12-11 | UE4.22 | - | ❌ Lost | 🎄 Winterfest |
+| 7.0.1 | `7.01-CL-4648651` | 2018-12-11 | UE4.22 | - | ❌ Lost | 🎄 Winterfest |
 | 7.1.0 | `7.10-CL-4667333` | 2018-12-18 | UE4.22-4667333 | 14.85 GB | [Reboot](https://builds.rebootfn.org/7.10.rar) · [Google Drive](https://drive.google.com/file/d/1ddhWJsKAgSyaQamPOw03LugLC5wcnzbB/view) · [Fortforge](https://fortforge.co.uk/download/bfeb4d10-4a66-41ea-bbfb-e321dba74f6c/build) | 🎄 Winterfest |
 | 7.2.0 | `7.20-CL-4716934` | 2019-01-22 | UE4.22 | - | ❌ Lost | 👑 Ice King |
 | 7.2.0 | `7.20-CL-4727874` | 2019-01-22 | UE4.22-4727874 | 10.97 GB | [Reboot](https://builds.rebootfn.org/7.20.rar) · [Fortforge](https://fortforge.co.uk/download/d263d360-627c-470b-b89f-c2677a823515/build) | 👑 Ice King |
@@ -226,7 +256,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 </details>
 
 <details>
-<summary><b>🌟 Season 9</b> &nbsp;·&nbsp; v9.0.0 → v9.4.1 &nbsp;·&nbsp; 🔍 9/12 downloadable</summary>
+<summary><b>🌟 Season 9</b> &nbsp;·&nbsp; v9.0.0 → v9.4.1 &nbsp;·&nbsp; 🔍 9/13 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
@@ -237,6 +267,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 9.1.0 | `9.10-CL-6616201` | 2019-05-19 | UE4 | - | ❌ Lost |  |
 | 9.2.0 | `9.20-CL-6822798` | 2019-06-04 | UE4.23 | - | [FN-Archive](https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar) |  |
 | 9.2.1 | `9.21-CL-6922310` | 2019-06-12 | UE4.23 | - | [Reboot](https://builds.rebootfn.org/9.21.zip) · [Fortforge](https://fortforge.co.uk/download/80e93f1d-5747-4cb8-a51c-2557b8f751b9/build) |  |
+| 9.3.0 | `9.30-CL-7021684` | 2019-07-09 | UE4 | - | ❌ Lost |  |
 | 9.3.0 | `9.30-CL-7095426` | 2019-07-09 | UE4 | - | ❌ Lost |  |
 | 9.3.0 | `9.30-CL-7095426` | 2019-07-09 | UE4.23 | 18.79 GB | [Reboot](https://builds.rebootfn.org/9.30.zip) · [Fortforge](https://fortforge.co.uk/download/656cbb28-8de5-4506-850d-b0e971ba9eda/build) |  |
 | 9.4.0 | `9.40-CL-7315705` | 2019-07-17 | UE4.23 | 19.05 GB | [Reboot](https://builds.rebootfn.org/9.40.zip) · [Fortforge](https://fortforge.co.uk/download/672c6495-4458-441e-b855-4e79a6ca63e7/build) | ⚔️ The Final Showdown |
@@ -269,7 +300,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 ## 📗 Chapter 2
 
 <details>
-<summary><b>🏝️ Season 1</b> &nbsp;·&nbsp; v11.00 → v11.50 &nbsp;·&nbsp; 🔍 13/20 downloadable</summary>
+<summary><b>🏝️ Season 1</b> &nbsp;·&nbsp; v11.00 → v11.50 &nbsp;·&nbsp; 🔍 13/21 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
@@ -292,6 +323,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 11.40 | `11.40-CL-11039906` | 2020-01-15 | UE4.24 | 26.56 GB | [FN-Archive](https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z) · [FN-Builds](https://fn-builds.repressoh.it/11.40-CL-11039906.7z) |  |
 | 11.40 | `11.40-CL-11109625` | 2020-01-15 | UE4.24 | - | ❌ Lost |  |
 | 11.50 | `11.50-CL-10899158` | 2020-02-05 | UE4.24 | 26.21 GB | [FN-Builds](https://fn-builds.repressoh.it/11.50.7z) · [Carti](https://pics.carti.club/11.50.7z) |  |
+| 11.50 | `11.50-CL-11204868` | 2020-02-05 | UE4.24 | - | ❌ Lost |  |
 | 11.50 | `11.50-CL-11265652` | 2020-02-05 | UE4.24 | 26.66 GB | [Fortforge](https://fortforge.co.uk/download/033309b3-6b68-4bae-9730-e20a49488544/build) |  |
 
 </details>
@@ -714,24 +746,29 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 ## 📒 Newer Builds (v33+)
 
 <details>
-<summary><b>🌐 Season 33</b> &nbsp;·&nbsp; v33.00 → v33.30 &nbsp;·&nbsp; 🔍 2/6 downloadable</summary>
+<summary><b>🌐 Season 33</b> &nbsp;·&nbsp; v33.00 → v33.30 &nbsp;·&nbsp; 🔍 2/8 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 33.00 | `33.00-CL-38324112` | 2024-12-01 | UE5.6 | - | 🔍 Link needed |  |
 | 33.00 | `33.00-CL-38504598` | 2024-12-01 | UE5.6 | - | 🔍 Link needed |  |
 | 33.10 | `33.10-CL-38630093` | 2024-12-10 | UE5.6 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F33.10_CL_38630093.zip&token=v1.jWzQqde9SnY46NbD70G98kS1NcjCSVBXepTnjDH0ODg) |  |
 | 33.11 | `33.11-CL-38773622` | 2024-12-18 | UE5.6 | - | 🔍 Link needed |  |
 | 33.20 | `33.20-CL-39082670` | 2025-01-14 | UE5.6 | - | 🔍 Link needed |  |
+| 33.20 | `33.20-CL-39277041` | 2025-01-14 | UE5.6 | - | 🔍 Link needed |  |
 | 33.30 | `33.30-CL-39435251` | 2025-01-31 | UE5.6 | - | 🔍 Link needed |  |
 | 33.30 | `33.30-CL-39768313` | 2025-01-31 | UE5.6 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F33.30_CL_39768313.zip&token=v1.i8xtwLSItvaY_VlY2yuY5lbgMLlE5ZFttJWcD0BuOPA) |  |
 
 </details>
 
 <details>
-<summary><b>🌐 Season 34</b> &nbsp;·&nbsp; v34.00 → v34.40 &nbsp;·&nbsp; ✅ 7/7 downloadable</summary>
+<summary><b>🌐 Season 34</b> &nbsp;·&nbsp; v34.00 → v34.40 &nbsp;·&nbsp; 🔍 7/10 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 34.00 | `34.00-CL-40085084` | 2025-02-21 | UE5.6 | - | 🔍 Link needed |  |
+| 34.00 | `34.00-CL-40228973` | 2025-02-21 | UE5.6 | - | 🔍 Link needed |  |
+| 34.00 | `34.00-CL-40398515` | 2025-02-21 | UE5.6 | - | 🔍 Link needed |  |
 | 34.00 | `34.00-CL-40446427` | 2025-02-21 | UE5.6 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F34.00-CL-40446427.zip&token=v1.5HDsF9JRWC9MxeLj8OPpkzt5Gr_CfXSWq_hSkgzRKHU) |  |
 | 34.10 | `34.10-CL-40567068` | 2025-03-11 | UE5.6 | 73.57 GB | [Archive.org](https://ia601805.us.archive.org/18/items/fn-v34-archive/34.10-CL-40567068.zip) |  |
 | 34.20 | `34.20-CL-40965447` | 2025-03-25 | UE5.6 | 75.08 GB | [Archive.org](https://ia601805.us.archive.org/18/items/fn-v34-archive/34.20-CL-40965447.zip) |  |
@@ -773,12 +810,15 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 </details>
 
 <details>
-<summary><b>🌐 Season 37</b> &nbsp;·&nbsp; v37.00 → v37.51 &nbsp;·&nbsp; ✅ 8/8 downloadable</summary>
+<summary><b>🌐 Season 37</b> &nbsp;·&nbsp; v37.00 → v37.51 &nbsp;·&nbsp; 🔍 8/11 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 37.00 | `37.00-CL-44501951` | 2025-08-07 | UE5.7.0 | - | 🔍 Link needed |  |
 | 37.00 | `37.00-CL-44765404` | 2025-08-07 | UE5.7.0 | - | [Archive.org](https://ia600605.us.archive.org/8/items/fn-v37-archive-0/37.00-CL-44765404.zip) |  |
+| 37.10 | `37.10-CL-45056983` | 2025-08-26 | UE5.7.0 | - | 🔍 Link needed |  |
 | 37.10 | `37.10-CL-45566377` | 2025-08-26 | UE5.7.0 | 90.27 GB | [Archive.org](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.10-CL-45566377.zip) |  |
+| 37.20 | `37.20-CL-45566402` | 2025-09-09 | UE5.7.0 | - | 🔍 Link needed |  |
 | 37.20 | `37.20-CL-45679054` | 2025-09-09 | UE5.7.0 | 91.91 GB | [Archive.org](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.20-CL-45679054.zip) |  |
 | 37.30 | `37.30-CL-45814998` | 2025-09-18 | UE5.7.0 | 93.80 GB | [Archive.org](https://ia800708.us.archive.org/22/items/fn-v37-archive/37.30-CL-45814998.zip) |  |
 | 37.31 | `37.31-CL-46047957` | 2025-09-25 | UE5.7.0 | 95.30 GB | [Archive.org](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.31-CL-46047957.zip) |  |
@@ -789,11 +829,23 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 </details>
 
 <details>
-<summary><b>🌐 Season 38</b> &nbsp;·&nbsp; v38.11 → v38.11 &nbsp;·&nbsp; ✅ 1/1 downloadable</summary>
+<summary><b>🌐 Season 38</b> &nbsp;·&nbsp; v38.00 → v38.11 &nbsp;·&nbsp; 🔍 1/4 downloadable</summary>
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 38.00 | `38.00-CL-47291259` | - | - | - | 🔍 Link needed |  |
+| 38.00 | `38.00-CL-47722112` | - | - | - | 🔍 Link needed |  |
+| 38.10 | `38.10-CL-47888945` | - | - | - | 🔍 Link needed |  |
 | 38.11 | `38.11-CL-48390828` | 2025-11-19 | UE5.7.0 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F38.11-CL-48390828.zip&token=v1.wM4U0PzVd8d-senQU-JhtO67R-6KUrSWSuti9JBA4NQ) |  |
+
+</details>
+
+<details>
+<summary><b>🌐 Season 39</b> &nbsp;·&nbsp; v39.00 &nbsp;·&nbsp; ❌ 0/1 downloadable</summary>
+
+| Version | Build (CL) | Release | Engine | Size | Downloads | Event |
+|---|---|---|---|---|---|---|
+| 39.00 | `39.00-CL-48444883` | - | - | - | 🔍 Link needed | |
 
 </details>
 
@@ -802,7 +854,10 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 
 | Version | Build (CL) | Release | Engine | Size | Downloads | Event |
 |---|---|---|---|---|---|---|
+| 40.00 | `40.00-CL-51995682` | 2026-03-19 | UE5.8 | - | ❌ Lost |  |
+| 40.10 | `40.10-CL-52157884` | 2026-04-01 | UE5.8 | - | ❌ Lost |  |
 | 40.20 | `40.20-CL-52463280` | 2026-04-16 | UE5.8 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F40.20_CL_52463280.zip&token=v1.QvayInm3Tw9Hw6rwU9gJMPzHAeeRoNDuAifkxfDx6vY) |  |
+| 40.20 | `40.20-CL-52900211` | 2026-04-20 | UE5.8 | - | ❌ Lost |  |
 | 40.30 | `40.30-CL-53093531` | 2026-04-30 | UE5.8 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F40.30-CL-53093531.zip&token=v1.zo_zgXXfxp3paiSIxRKi594L2gRJLmhB5F1wY0GX1o8) |  |
 | 40.40 | `40.40-CL-53683214` | 2026-05-14 | UE5.8 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F40.40-CL-53683214.zip&token=v1.D1yUhOv2kQWe6efpRgVN7ElK5UNRvVcGPPr4bnW52-w) |  |
 | 40.41 | `40.41-CL-54326946` | 2026-05-28 | UE5.8 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F40.41-CL-54326946.zip&token=v1.PmDWcq8xGgASU0QxWjdfKyZR1ZcEbHOc025FcPQoza0) |  |
@@ -830,6 +885,20 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 42.10 | `42.10-CL-57819926` | 2026-09-03 | UE6.0 | 139.44 GB | [Fortforge](https://fortforge.co.uk/download/46a93b58-a74e-497d-a623-d7a87e062a9e/build) |  |
 | 42.20 | `42.20-CL-58011042` | 2026-09-17 | UE6.0 | 139.69 GB | [Fortforge](https://fortforge.co.uk/download/5f718b03-19e5-4f30-b622-53bd832e5a29/build) |  |
 | 42.30 | `42.30-CL-58557680` | 2026-10-01 | UE6.0 | - | [Fortforge](https://fortforge.co.uk/download/c5293b95-34c9-4466-8581-5969d8819287/build) |  |
+
+</details>
+
+---
+
+## 🧪 Other builds
+
+<details>
+<summary><b>🧪 Other</b> &nbsp;·&nbsp; ❌ 0/2 downloadable</summary>
+
+| Version | Build (CL) | Release | Engine | Size | Downloads | Event |
+|---|---|---|---|---|---|---|
+| N/A | `++Fortnite+Release-Cert-CL-3472997-XboxOne` | - | - | - | 🔍 Link needed | 31.10 Dev (Xbox One) |
+| N/A | `Main-CL-21452241` | - | - | - | 🔍 Link needed |  |
 
 </details>
 
