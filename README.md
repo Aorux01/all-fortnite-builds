@@ -64,7 +64,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 4.9.0 | `OT5.5-CL-2760281` | - | UE4.9-2760281 | - | ❌ Lost |  |
 | 4.11.0 | `OT6-CL-2801990` | - | UE4.11-2801990 | - | ❌ Lost |  |
 | 4.12.0 | `OT6.5-CL-2870186` | 2016-02-28 | UE4.12-2870186 | - | [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2FOT0.6.5.zip&token=v1.jhRG8emQ6-2Ff-1INU8rJvuCYxwxULtLhDbM1TVsGio) |  |
-| N/A | `OT10.?-CL-N/A` | 2017-02-16 | UE4.16-3470982 | - | [GoFile](https://gofile.io/d/DnSgff)<br>⚠️ Only usable on a jailbroken PS4 (does not work on emulators) |  |
+| N/A | `OT10.?-CL-N/A` | 2017-02-16 | UE4.16-3470982 | - | 🔍 Link needed |  |
 | 4.12.0 | `OT6.6-CL-2898795` | - | UE4.12-2898795 | - | ❌ Lost |  |
 | 4.12.0 | `OT6.7-CL-2919741` | - | UE4.12-2919741 | - | ❌ Lost |  |
 | 4.12.0 | `OT7-CL-3012530` | - | UE4.12-3012530 | - | ❌ Lost |  |
@@ -75,7 +75,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 4.14.0 | `OT10-CL-3234896` | - | UE4.14-3234896 | - | ❌ Lost |  |
 | 4.14.0 | `OT10.1-CL-3240987` | - | UE4.14-3240987 | - | ❌ Lost |  |
 | 4.16.0 (PS4) | `OT10-CL-3307419` | - | UE4.16-3307419 | - | 🔍 Link needed |  |
-| 4.16.0 | `OT11.XX-CL-3471515` | 2017-07-20 | UE4.16-3532353 | 6.17 GB | [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip) · [Archive.org](https://archive.org/details/fortnite-ot-11-pc) · [Dropbox (Xbox)](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) · [Dropbox 2 (PC extract)](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0) |  |
+| 4.16.0 | `OT11.XX-CL-3471515` | 2017-07-20 | UE4.16-3532353 | 6.17 GB | [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip) · [Archive.org](https://archive.org/details/fortnite-ot-11-pc) |  |
 | 4.16.0 (PS4) | `OT11-CL-3472679` | - | UE4.16-3472679 | - | 🔍 Link needed |  |
 | 4.16.0 | `OT11.0-CL-3472997` | - | UE4.16-3472997 | - | 🔍 Link needed |  |
 | 4.16.0 | `OT11.0.3-CL-3481474` | - | UE4.16-3481474 | - | ❌ Lost |  |
@@ -84,7 +84,7 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 | 4.16.0 | `OT11-CL-3502004` | - | UE4.16-3502004 | - | ❌ Lost |  |
 | 4.16.0 | `OT11-CL-3502071` | - | UE4.16-3502071 | - | ❌ Lost |  |
 | N/A | `Cert-CL-3532353` | 2017-07-20 | UE4.16-3532353 | 5.06 GB | [Google Drive](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) · [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z) · [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2FCert-CL-3532353.7z&token=v1.rJY15A4_I5CqSFIt8sT_I9xd9SrMcbRAKPgoJtWBEl0) · [Archive.org](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) |  |
-| N/A | `1.2-CL-3541083` | 2017-07-21 | UE4.16-3541083 | 5.06 - 5.73 GB | [Google Drive](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) · [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) · [Mega](https://mega.nz/file/9vdxhQqb#KQa_WEcVRdsBN0gwmQdaHpFDtq1k34xZVxX0uyzFVws) · [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F1.2.0.rar&token=v1.5zOL0kD-2YA6l0mgAjMI2siBRVWLgz3OzwucqKbgFng) |  |
+| N/A | `1.2-CL-3541083` | 2017-07-21 | UE4.16-3541083 | 5.06 - 6.96 GB | [Google Drive](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) · [Data Dungeon](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) · [Mega](https://mega.nz/file/9vdxhQqb#KQa_WEcVRdsBN0gwmQdaHpFDtq1k34xZVxX0uyzFVws) · [Fortforge](https://fortforge.co.uk/download/b2?key=builds%2F1.2.0.rar&token=v1.5zOL0kD-2YA6l0mgAjMI2siBRVWLgz3OzwucqKbgFng) |  |
 
 </details>
 
@@ -95,14 +95,14 @@ If **Epic Games** has any questions regarding this repository, please contact [@
 |---|---|---|---|---|---|---|
 | 1.6.4 | `Release-Cert-CL-3668626` | - | - | - | ❌ Lost |  |
 | 1.7.0 | `Release-Cert-CL-3681159` | - | - | - | ❌ Lost |  |
-| 1.7.2 | `1.7.2-CL-3700114` | 2017-10-17 | UE4.16-3700114 | 7.50 GB | [Reboot](https://builds.rebootfn.org/1.7.2.zip) · [Fortforge](https://fortforge.co.uk/download/ca237bf5-9c75-4787-a227-7659cb63d59f/build) | 🎃 Fortnitemares |
-| 1.8.0 | `1.8-CL-3724489` | 2017-10-25 | UE4.16-3724489 | 6.58 GB | [Reboot](https://builds.rebootfn.org/1.8.rar) · [Fortforge](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build) · [Google Drive](https://drive.google.com/file/d/1ZhJjo-e3Rx_d8B5mJT26zpLGRbc7cD27/view?usp=sharing) | 🎃 Fortnitemares |
-| 1.8.1 | `1.8.1-CL-3729133` | 2017-11-02 | UE4.16-3729133 | - | [Reboot](https://builds.rebootfn.org/1.8.1.rar) · [Fortforge](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |  |
-| 1.8.2 | `1.8.2-CL-3741772` | 2017-11-08 | UE4.16-3741772 | 8.55 GB | [Reboot](https://builds.rebootfn.org/1.8.2.rar) · [Fortforge](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) |  |
-| 1.9.0 | `1.9-CL-3757339` | 2017-11-14 | UE4.16-3757339 | 8.62 GB | [Reboot](https://builds.rebootfn.org/1.9.rar) · [Fortforge](https://fortforge.co.uk/download/478aedbf-2ecf-4fa8-a20a-197f5eff2402/build) |  |
-| 1.9.1 | `1.9.1-CL-3775276` | 2017-11-29 | UE4.16-3775276 | 8.61 GB | [Reboot](https://builds.rebootfn.org/1.9.1.rar) · [Fortforge](https://fortforge.co.uk/download/e4e48be3-d265-46bd-a0fa-d720dfae630e/build) |  |
+| 1.7.2 | `1.7.2-CL-3700114` | 2017-10-17 | UE4.16-3700114 | 7.50 GB | [Fortforge](https://fortforge.co.uk/download/ca237bf5-9c75-4787-a227-7659cb63d59f/build) | 🎃 Fortnitemares |
+| 1.8.0 | `1.8-CL-3724489` | 2017-10-25 | UE4.16-3724489 | 6.58 GB | [Fortforge](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build) · [Google Drive](https://drive.google.com/file/d/1ZhJjo-e3Rx_d8B5mJT26zpLGRbc7cD27/view?usp=sharing) | 🎃 Fortnitemares |
+| 1.8.1 | `1.8.1-CL-3729133` | 2017-11-02 | UE4.16-3729133 | - | [Fortforge](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |  |
+| 1.8.2 | `1.8.2-CL-3741772` | 2017-11-08 | UE4.16-3741772 | 8.55 GB | [Fortforge](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) |  |
+| 1.9.0 | `1.9-CL-3757339` | 2017-11-14 | UE4.16-3757339 | 8.62 GB | [Fortforge](https://fortforge.co.uk/download/478aedbf-2ecf-4fa8-a20a-197f5eff2402/build) |  |
+| 1.9.1 | `1.9.1-CL-3775276` | 2017-11-29 | UE4.16-3775276 | 8.61 GB | [Fortforge](https://fortforge.co.uk/download/e4e48be3-d265-46bd-a0fa-d720dfae630e/build) |  |
 | N/A | `Release-Cert-CL-3785438` | - | - | - | ❌ Lost |  |
-| 1.10.0 | `1.10-CL-3790078` | 2017-12-06 | UE4.19-3790078 | 8.24 GB | [Reboot](https://builds.rebootfn.org/1.10.rar) · [Fortforge](https://fortforge.co.uk/download/4339aebd-f902-4b5b-afa9-661f3736339d/build) | 🎄 Winterfest |
+| 1.10.0 | `1.10-CL-3790078` | 2017-12-06 | UE4.19-3790078 | 8.24 GB | [Fortforge](https://fortforge.co.uk/download/4339aebd-f902-4b5b-afa9-661f3736339d/build) | 🎄 Winterfest |
 
 </details>
 
